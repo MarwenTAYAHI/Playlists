@@ -302,3 +302,10 @@ http://linux-app.tv:8080/live/779874950889/riRqhe5sFj/8028.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/640px-National_Geographic_Wild_logo.svg.png" group-title="Autres",FR National Geographic Wild
 http://linux-app.tv:8080/live/779874950889/riRqhe5sFj/150410.ts
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/ba/Logo_Automoto_%28chaine_TV_2018%29.jpg" group-title="Autres",AutoMoto
+http://linux-app.tv:8080/live/779874950889/riRqhe5sFj/8013.ts
+
+
+#EXTINF:-1 tvg-logo="https://p1.hiclipart.com/preview/852/515/623/fatafeat-tv-logo-png-clipart.jpg" group-title="Autres",Fatafeat
+http://linux-app.tv:8080/live/779874950889/riRqhe5sFj/2714.ts
+
