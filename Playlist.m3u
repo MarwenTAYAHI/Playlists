@@ -289,9 +289,16 @@ http://185.224.217.9:2052/live/448541210370/2saS1KQiWT/219941.m3u8?md5=c87f2c608
 http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/2082.ts
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Nat_geo_channel_abu_dhabi.png" group-title="Autres",AR National Geographic
+http://linux-app.tv:8080/live/779874950889/riRqhe5sFj/33608.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/640px-National_Geographic_Wild_logo.svg.png" group-title="Autres",AR National Geographic Wild
+http://linux-app.tv:8080/live/779874950889/riRqhe5sFj/33609.ts
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/2560px-Natgeologo.svg.png" group-title="Autres",FR National Geographic
+http://linux-app.tv:8080/live/779874950889/riRqhe5sFj/8028.ts
 
-
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/640px-National_Geographic_Wild_logo.svg.png" group-title="Autres",FR National Geographic Wild
+http://linux-app.tv:8080/live/779874950889/riRqhe5sFj/150410.ts
 
