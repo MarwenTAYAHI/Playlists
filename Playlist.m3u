@@ -239,10 +239,6 @@ http://185.224.217.9:2052/live/448541210370/2saS1KQiWT/67393.m3u8?md5=c87f2c6086
 http://starshare.live:8080/live/08042023/123456789/274215.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Bein_sport_ana_logo.png" group-title="Autres",Bein Sport SD2 Almanasa vip
 http://185.224.217.9:2052/live/448541210370/2saS1KQiWT/67393.m3u8?md5=c87f2c6086c697cd7b1d6e41257d8878&expires=1714397337
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Bein_sport_ana_logo.png" group-title="Autres",Bein Sport SD2 ayas
-http://95.81.95.148:8080/hls2/bein2.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Bein_sport_ana_logo.png" group-title="Autres",Bein Sport SD 2 Najika TV
-http://188.166.74.198/live/promax111/promax1111/412.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Bein_sport_ana_logo.png" group-title="Autres",Bein Sport SD3
 http://185.224.217.9:2052/live/448541210370/2saS1KQiWT/67394.m3u8?md5=c87f2c6086c697cd7b1d6e41257d8878&expires=1714411922
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Bein_sport_ana_logo.png" group-title="Autres",Bein Sport SD3 Zain
