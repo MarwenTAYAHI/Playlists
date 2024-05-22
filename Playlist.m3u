@@ -220,8 +220,7 @@ http://185.224.217.12:2052/live/448541210370/2saS1KQiWT/221562.m3u8?md5=c87f2c60
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Bein_sport_ana_logo.png" group-title="Autres",Bein Sport SD1 Test
-http://188.166.74.198/live/promax111/promax1111/262.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Bein_sport_ana_logo.png" group-title="Autres",Bein Sport SD1
 http://185.224.217.9:2052/live/448541210370/2saS1KQiWT/67392.m3u8?md5=c87f2c6086c697cd7b1d6e41257d8878&expires=1714535515
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Bein_sport_ana_logo.png" group-title="Autres",Bein Sport SD1 Pro
