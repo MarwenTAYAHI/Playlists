@@ -200,6 +200,25 @@ http://212.18.115.36:2052/live/448541210370/2saS1KQiWT/135365.m3u8?md5=c87f2c608
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/OSN_2020_logo.svg/1200px-OSN_2020_logo.svg.png" group-title="Autres",OSN ACTION
 http://212.18.115.36:2052/live/448541210370/2saS1KQiWT/135367.m3u8?md5=c87f2c6086c697cd7b1d6e41257d8878
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/SSC_TV_logo.svg/1024px-SSC_TV_logo.svg.png" group-title="Autres",SSC1 Earthlink
+http://stream.shabakaty.com:6001/sport/ch9/ch9_720.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/SSC_TV_logo.svg/1024px-SSC_TV_logo.svg.png" group-title="Autres",SSC SD1
+http://arabtv11-qkqa.ddns.net:2052/live/448541210370/2saS1KQiWT/221546.m3u8?md5=c87f2c6086c697cd7b1d6e41257d8878
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/SSC_TV_logo.svg/1024px-SSC_TV_logo.svg.png" group-title="Autres",SSC SD2
+http://185.224.217.12:2052/live/448541210370/2saS1KQiWT/221547.m3u8?md5=c87f2c6086c697cd7b1d6e41257d8878
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/SSC_TV_logo.svg/1024px-SSC_TV_logo.svg.png" group-title="Autres",SSC SD3
+http://185.224.217.12:2052/live/448541210370/2saS1KQiWT/221548.m3u8?md5=c87f2c6086c697cd7b1d6e41257d8878
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/SSC_TV_logo.svg/1024px-SSC_TV_logo.svg.png" group-title="Autres",SSC SD4 
+http://arabtv11-qkqa.ddns.net:2052/live/448541210370/2saS1KQiWT/221549.m3u8?md5=c87f2c6086c697cd7b1d6e41257d8878
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/SSC_TV_logo.svg/1024px-SSC_TV_logo.svg.png" group-title="Autres",SSC SD5
+http://arabtv11-qkqa.ddns.net:2052/live/448541210370/2saS1KQiWT/221550.m3u8?md5=c87f2c6086c697cd7b1d6e41257d8878
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/SSC_TV_logo.svg/1024px-SSC_TV_logo.svg.png" group-title="Autres",SSC EXTRA 1
+http://185.224.217.12:2052/live/448541210370/2saS1KQiWT/221559.m3u8?md5=c87f2c6086c697cd7b1d6e41257d8878
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/SSC_TV_logo.svg/1024px-SSC_TV_logo.svg.png" group-title="Autres",SSC EXTRA 2
+http://185.224.217.12:2052/live/448541210370/2saS1KQiWT/221560.m3u8?md5=c87f2c6086c697cd7b1d6e41257d8878
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/SSC_TV_logo.svg/1024px-SSC_TV_logo.svg.png" group-title="Autres",SSC EXTRA 3
+http://185.224.217.12:2052/live/448541210370/2saS1KQiWT/221562.m3u8?md5=c87f2c6086c697cd7b1d6e41257d8878
+
 
 
 
