@@ -80,8 +80,12 @@ http://vip.itvdom.com:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/15747.ts
 http://vip.itvdom.com:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/15745.ts
 
 
+#EXTINF:11 tvg-id="Al mustakila" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/95/Radio_Tunis.png" group-title="Tunisie",13 Radio Tunis Livecam
+http://webcam.radiotunisienne.tn:1935/radiotn/nationale_video/playlist.m3u8
 
 
+#EXTINF:11 tvg-id="Al mustakila" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/95/Radio_Tunis.png" group-title="Tunisie",14 Mosaique FM Livecam
+https://webcam.mosaiquefm.net:1936/mosatv/studio/playlist.m3u8
 
 
 
