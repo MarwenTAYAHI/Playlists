@@ -2,10 +2,22 @@
 #EXTINF: 0 tvg-id="Tunisia NAT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_T%C3%A9l%C3%A9vision_tunisienne_1%2C_2017.svg/739px-Logo_T%C3%A9l%C3%A9vision_tunisienne_1%2C_2017.svg.png" group-title="Tunisie", 01 Tunisia NAT 1
 https://ythls.armelin.one/channel/UCdvWVsmQBROkgcGzVep73oA.m3u8
 
+#EXTINF: 0 tvg-id="Tunisia NAT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_T%C3%A9l%C3%A9vision_tunisienne_1%2C_2017.svg/739px-Logo_T%C3%A9l%C3%A9vision_tunisienne_1%2C_2017.svg.png" group-title="Tunisie", 01 Tunisia NAT 1 Backup 1
+https://new.cache-stream.workers.dev/stream/UCdvWVsmQBROkgcGzVep73oA/live.m3u8
+
+#EXTINF: 0 tvg-id="Tunisia NAT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_T%C3%A9l%C3%A9vision_tunisienne_1%2C_2017.svg/739px-Logo_T%C3%A9l%C3%A9vision_tunisienne_1%2C_2017.svg.png" group-title="Tunisie", 01 Tunisia NAT 1 Backup 2
+https://github.com/MassinDV/Youtube-arabic-channels/raw/main/live/ch96.m3u8
 
 
 #EXTINF: 1 tvg-id="Tunisia NAT 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Logo_T%C3%A9l%C3%A9vision_tunisienne_2%2C_2017.svg/739px-Logo_T%C3%A9l%C3%A9vision_tunisienne_2%2C_2017.svg.png" group-title="Tunisie", 02 Tunisia NAT 2
 https://ythls.armelin.one/channel/UCJW9gatYczI191TunQxMGbA.m3u8
+
+#EXTINF: 1 tvg-id="Tunisia NAT 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Logo_T%C3%A9l%C3%A9vision_tunisienne_2%2C_2017.svg/739px-Logo_T%C3%A9l%C3%A9vision_tunisienne_2%2C_2017.svg.png" group-title="Tunisie", 02 Tunisia NAT 2 Backup 1
+https://new.cache-stream.workers.dev/stream/UCJW9gatYczI191TunQxMGbA/live.m3u8
+
+
+#EXTINF: 1 tvg-id="Tunisia NAT 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Logo_T%C3%A9l%C3%A9vision_tunisienne_2%2C_2017.svg/739px-Logo_T%C3%A9l%C3%A9vision_tunisienne_2%2C_2017.svg.png" group-title="Tunisie", 02 Tunisia NAT 2 Backup 2
+https://github.com/MassinDV/Youtube-arabic-channels/raw/main/live/ch35.m3u8
 
 
 #EXTINF:2 tvg-id="Elhiwar Ettounsi" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/8/81/123.png" group-title="Tunisie",03 Elhiwar Ettounsi
@@ -215,6 +227,9 @@ https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/playlist.m3
 #EXTINF:-1 tvg-id="MBC3.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Logo_TV5_Monde_-_2021.svg/600px-Logo_TV5_Monde_-_2021.svg.png" group-title="Autres",TV5 Monde FBMS
 https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/variant.m3u8
 
+#EXTINF:-1 tvg-id="MBC3.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Logo_TV5_Monde_-_2021.svg/600px-Logo_TV5_Monde_-_2021.svg.png" group-title="Autres",TV5 Monde infos
+https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
+
 #EXTINF:-1 tvg-id="MBC3.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Sky_News_Arabia_logo.png" group-title="Autres",Sky News Arabia
 https://stream.skynewsarabia.com/hls/sna.m3u8
 
@@ -312,4 +327,66 @@ http://linux-app.tv:8080/live/779874950889/riRqhe5sFj/8013.ts
 
 #EXTINF:-1 tvg-logo="https://p1.hiclipart.com/preview/852/515/623/fatafeat-tv-logo-png-clipart.jpg" group-title="Autres",Fatafeat
 http://linux-app.tv:8080/live/779874950889/riRqhe5sFj/2714.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b3/RMC_D%C3%A9couverte_logo_2017.svg/1024px-RMC_D%C3%A9couverte_logo_2017.svg.png" group-title="Autres",RMC Découverte
+https://d2mt8for1pddy4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6uronj7gzvy4j/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Arte-Logo.svg/1280px-Arte-Logo.svg.png" group-title="Autres",Arte
+https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Euronews._2016_logo.png" group-title="Autres",Euronews
+https://euronews-euronews-french-3-us.plex.wurl.tv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/1/13/L%27%C3%89quipe_TV_logo_1998.svg/1200px-L%27%C3%89quipe_TV_logo_1998.svg.png" group-title="Autres",L'ÉQUIPE TV
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/eqpe/eqpetv.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/33/%C3%89quidia_Logo.svg/1280px-%C3%89quidia_Logo.svg.png" group-title="Autres",EQUIDIA
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/extr/py/equidi.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/8/88/Logo-Gulli.svg/1200px-Logo-Gulli.svg.png" group-title="Autres",Gulli Prime
+https://origin2-6play.live.6cloud.fr/pool_rnpls9by/gulli/sixplaysd/hls_short_q2hyb21h_gulli/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Motorvision_TV_2016_II.png/revision/latest/scale-to-width-down/1200?cb=20230921082641" group-title="Autres",Motorvision TV
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883047
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Motorvision_TV_2016_II.png/revision/latest/scale-to-width-down/1200?cb=20230921082641" group-title="Autres",Motorvision TV 2
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60817e1aa6997500072d0d6d/master.m3u8?deviceDNT=%7BTARGETOPT%7D&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceType=samsung-tvplus&deviceMake=samsung
+
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/NJJTaModqGGqBw4BUSys1WBqhGMiLhKDq-fx4Hat57Hcuvp4Ap0BZ4C8oAz5qZ2pBIln" group-title="Autres",TOP Santé
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/topsante/topsante.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.francetvpub.fr/wp-content/uploads/2022/01/maisontravauxtv-300x150.png" group-title="Autres",Maisons & Traveaux
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/maisontrvx/maisontrvx.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Majid_Logo.svg/1200px-Majid_Logo.svg.png" group-title="Autres",Majid
+https://vo-live.cdb.cdn.orange.com/Content/Channel/MajidChildrenChannel/HLS/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Iqraa_logo.gif" group-title="Autres",Iqraa
+https://iqraa-live.ercdn.net/iqraa/iqraa.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/352/866/png-transparent-mbc1-television-channel-mbc2-mbc-3-%D8%B1%D9%85%D8%B6%D8%A7%D9%86-%D9%8A%D8%AC%D9%85%D8%B9%D9%86%D8%A7-text-trademark-logo.png" group-title="Autres",MBC Movies
+https://shls-live-ak.akamaized.net/out/v1/90143f040feb40589d18c57863d9e829/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/352/866/png-transparent-mbc1-television-channel-mbc2-mbc-3-%D8%B1%D9%85%D8%B6%D8%A7%D9%86-%D9%8A%D8%AC%D9%85%D8%B9%D9%86%D8%A7-text-trademark-logo.png" group-title="Autres",MBC Aflam
+https://shls-live-ak.akamaized.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Logo_TF1_2013.svg/1200px-Logo_TF1_2013.svg.png" group-title="Autres",TF1
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
+
+
+
+
+
+
+
+
 
