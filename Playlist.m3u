@@ -363,7 +363,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60817e1aa6997500072d0d
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/topsante/topsante.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.francetvpub.fr/wp-content/uploads/2022/01/maisontravauxtv-300x150.png" group-title="Autres",Maisons & Traveaux
+#EXTINF:-1 tvg-logo="https://www.francetvpub.fr/wp-content/uploads/2022/01/maisontravauxtv-300x150.png" group-title="Autres",Maisons & Travaux
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/maisontrvx/maisontrvx.m3u8
 
 
