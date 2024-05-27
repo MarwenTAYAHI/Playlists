@@ -331,8 +331,14 @@ http://linux-app.tv:8080/live/779874950889/riRqhe5sFj/2714.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b3/RMC_D%C3%A9couverte_logo_2017.svg/1024px-RMC_D%C3%A9couverte_logo_2017.svg.png" group-title="Autres",RMC Découverte
 https://d2mt8for1pddy4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6uronj7gzvy4j/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b3/RMC_D%C3%A9couverte_logo_2017.svg/1024px-RMC_D%C3%A9couverte_logo_2017.svg.png" group-title="Autres",RMC Découverte Backup
+https://i.mjh.nz/SamsungTVPlus/CH500003EH.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3e/RMC_Story_logo_2018.svg/2560px-RMC_Story_logo_2018.svg.png" group-title="Autres",RMC Story
 https://d36bxc1bknkxrk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ewcp19zjaxpt/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3e/RMC_Story_logo_2018.svg/2560px-RMC_Story_logo_2018.svg.png" group-title="Autres",RMC Story Backup
+https://i.mjh.nz/SamsungTVPlus/CH500002H2.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Arte-Logo.svg/1280px-Arte-Logo.svg.png" group-title="Autres",Arte
 https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
@@ -387,6 +393,30 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/a/a8/TMC_logo_2016.svg/1280px-TMC_logo_2016.svg.png" group-title="Autres",TMC
 https://github.com/Paradise-91/ParaTV/raw/main/streams/tf1plus/tmc.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/4/44/NRJ12-Logo.png" group-title="Autres",NRJ 12
+https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/03/Ch%C3%A9rie-25-en-direct-Online.png" group-title="Autres",Chérie 25
+https://cherie25.nrjaudio.fm/hls/live/2038375/c25/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/C8_t%C3%A9l%C3%A9.png" group-title="Autres",C8
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/gnrcpltfrm/c8.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/W9-Logo.svg/1280px-W9-Logo.svg.png" group-title="Autres",W9
+http://gratuittv.free.fr/Files/w9/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/Travelxp_HD.svg" group-title="Autres",Travel XP
+https://0b0a5371d15f48128cf69b029230eac6.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-fr_TravelXP/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/a/a7/TV8_Mont-Blanc_logo_2002.png" group-title="Autres",TV8 Mont Blanc
+https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/8_Mont-Blanc.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/AlHurra_logo.svg" group-title="Autres",ALHURRA
+https://mbnv-video-ingest.akamaized.net/hls/live/2038904/MBNV_ALHURRA_MAIN_HLS/master.m3u8
 
 
 
