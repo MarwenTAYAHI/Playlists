@@ -340,6 +340,16 @@ https://d36bxc1bknkxrk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3e/RMC_Story_logo_2018.svg/2560px-RMC_Story_logo_2018.svg.png" group-title="Autres",RMC Story Backup
 https://i.mjh.nz/SamsungTVPlus/CH500002H2.m3u8
 
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/kzUQEB8wnloismj-Fe4M2rd6vwSRuRNTKRg5ccUmm2Nq69XFMwGC78pQlaaTtRjmJTw9kcpC=s900-c-k-c0x00ffffff-no-rj" group-title="Autres",RMC WOW
+https://i.mjh.nz/SamsungTVPlus/FR300001M1.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://amplilib.com/wp-content/uploads/2018/03/logo-RMC.jpg" group-title="Autres",RMC Mystère
+https://i.mjh.nz/SamsungTVPlus/FR300006GF.m3u8
+
+#EXTINF:-1 tvg-logo="https://amplilib.com/wp-content/uploads/2018/03/logo-RMC.jpg" group-title="Autres",RMC Alerte secours
+https://i.mjh.nz/SamsungTVPlus/FR30000271.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Arte-Logo.svg/1280px-Arte-Logo.svg.png" group-title="Autres",Arte
 https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
 
@@ -417,6 +427,10 @@ https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/8_Mont-Blanc.
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/AlHurra_logo.svg" group-title="Autres",ALHURRA
 https://mbnv-video-ingest.akamaized.net/hls/live/2038904/MBNV_ALHURRA_MAIN_HLS/master.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/masterchef.svg" group-title="Autres",Master Chef
+https://i.mjh.nz/SamsungTVPlus/FRBC3300009EA.m3u8
 
 
 
