@@ -440,6 +440,20 @@ https://jrtv-live.ercdn.net/jordanhd/jordanhd_1080p.m3u8
 https://tv-trtarabi.live.trt.com.tr/master.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Abu_Dhabi_TV.png" group-title="Autres",Abu Dhabi TV
+https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Al_Emarat_2020_logo.png/revision/latest?cb=20200424100216" group-title="Autres",Al Emarat TV
+https://vo-live.cdb.cdn.orange.com/Content/Channel/EmiratesChannel/HLS/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/d/da/Qatar_tv.png" group-title="Autres",Qatar TV
+https://qatartv.akamaized.net/hls/live/2026573/qtv1/4.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.qna.org.qa/en/qnacdn.azureedge.net/-/media/Themes/QNA/QNA/QNA/images/LiveStreaming/Aljazeera-logo/qna_qatar2.jpg?h=195&la=en&w=261&modified=20211010092043" group-title="Autres",Qatar 2 TV
+https://qatartv.akamaized.net/hls/live/2026574/qtv2/4.m3u8
+
+
 
 
 
