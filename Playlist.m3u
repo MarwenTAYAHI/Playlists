@@ -360,6 +360,13 @@ https://qatartv.akamaized.net/hls/live/2026573/qtv1/4.m3u8
 https://qatartv.akamaized.net/hls/live/2026574/qtv2/4.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/7e/7d/84/7e7d8461aa978283a8469395bdd4d9f3.png" group-title="Autres",Al Manar
+https://manar.live/iptv/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.nextproductions.sa/wp-content/uploads/2022/09/SamaDubaiTV-e1663184002326.png" group-title="Autres",Sama Dubai
+https://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/playlist.m3u8
+
 
 
 
