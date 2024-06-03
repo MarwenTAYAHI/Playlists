@@ -463,3 +463,6 @@ http://154.197.91.168:7004/play/a0e0
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Cbc_sofra_logo.png/800px-Cbc_sofra_logo.png" ,CBC Sofra
 http://173.212.193.243:8080/mo3adgh34S8/mo3adgh34S8/1219
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f0/Saudi_TV1_2009.png/revision/latest?cb=20200330092830" ,Saudi 1
+http://173.212.193.243:8080/mo3adgh34S8/mo3adgh34S8/1240
