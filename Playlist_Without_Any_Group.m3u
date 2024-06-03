@@ -83,6 +83,9 @@ http://173.212.193.243:8080/mo3adgh34S8/mo3adgh34S8/1279
 #EXTINF:7 tvg-id="Al Janoubiya" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/62/Logo_Al_Janoubiya_TV.png" ,08 Al Janoubiya Backup 2
 http://vip.itvdom.com:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/30550.ts
 
+#EXTINF:7 tvg-id="Al Janoubiya" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/62/Logo_Al_Janoubiya_TV.png" ,08 Al Janoubiya Backup 3
+http://154.197.91.168:7001/play/a0bc/index.m3u8
+
 
 #EXTINF:8 tvg-id="Carthage plus" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/a/af/Logo-carthageplus.png" ,09 Carthage plus
 http://154.197.91.168:7001/play/a0bd/index.m3u8
@@ -92,7 +95,7 @@ http://vip.itvdom.com:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/15743.ts
 
 
 #EXTINF:9 tvg-id="Telvza TV" tvg-logo="https://photos.live-tv-channels.org/tv-logo/tn-telvza-tv-4014.jpg" ,10 Telvza TV
-http://linux-app.tv:8080/live/779874950889/riRqhe5sFj/21480.ts
+http://154.197.91.168:7001/play/a0bb/index.m3u8
 
 #EXTINF:9 tvg-id="Telvza TV" tvg-logo="https://photos.live-tv-channels.org/tv-logo/tn-telvza-tv-4014.jpg" ,10 Telvza TV Backup
 http://vip.itvdom.com:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/40884.ts
@@ -230,7 +233,11 @@ https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af
 #EXTINF:-1 tvg-id="MBC3.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86_%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85.svg/640px-%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86_%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85.svg.png" ,Quran Kareem HD
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MBC3.ae" tvg-logo="https://w7.pngwing.com/pngs/880/655/png-transparent-al-jazeera-documentary-channel-aljazeera-international-documentary-film-festival-doha-others-miscellaneous-television-text.png" ,Al Jazeera Documentary
+#EXTINF:-1 tvg-id="MBC3.ae" tvg-logo="https://i.imgur.com/7bRVpnu.png" ,Al Jazeera Documentary
+http://154.197.91.168:7004/play/a0fi
+
+
+#EXTINF:-1 tvg-id="MBC3.ae" tvg-logo="https://i.imgur.com/7bRVpnu.png" ,Al Jazeera Documentary Backup
 http://95.216.180.111:1935/live/111/chunklist_w155690980.m3u8
 
 #EXTINF:-1 tvg-id="MBC3.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/%D8%B4%D8%A8%D9%83%D8%A9_%D8%A7%D9%84%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D9%88%D9%86_%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A.jpg" ,Al Araby
@@ -441,5 +448,16 @@ http://173.212.193.243:8080/mo3adgh34S8/mo3adgh34S8/1178
 http://173.212.193.243:8080/mo3adgh34S8/mo3adgh34S8/1205
 
 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/5/57/Yemen_tv_logo.jpg" ,Yemen TV
+http://154.197.91.168:7002/play/a0fr
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.middleeastmonitor.com/wp-content/uploads/2020/05/palestine-tv.png?fit=1200%2C800&ssl=1" ,Palestine TV
+http://154.197.91.168:7002/play/a0er
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Logo_TV5_Monde_-_2021.svg/1200px-Logo_TV5_Monde_-_2021.svg.png" ,TV5 Maghreb Orient
+http://154.197.91.168:7004/play/a0e0
 
 
