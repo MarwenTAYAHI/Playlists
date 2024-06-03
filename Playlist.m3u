@@ -459,3 +459,7 @@ http://154.197.91.168:7002/play/a0er
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Logo_TV5_Monde_-_2021.svg/1200px-Logo_TV5_Monde_-_2021.svg.png" ,TV5 Maghreb Orient
 http://154.197.91.168:7004/play/a0e0
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Cbc_sofra_logo.png/800px-Cbc_sofra_logo.png" ,CBC Sofra
+http://173.212.193.243:8080/mo3adgh34S8/mo3adgh34S8/1219
