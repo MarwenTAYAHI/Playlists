@@ -58,14 +58,15 @@ http://vip.itvdom.com:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/93789.ts
 
 
 #EXTINF:5 tvg-id="Nessma TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/46/Nessma_Al_Jadida_Logo.png" ,06 Nessma TV
-http://173.212.193.243:8080/mo3adgh34S8/mo3adgh34S8/1280
+http://154.197.91.168:7001/play/a0do/index.m3u8
+
 
 #EXTINF:5 tvg-id="Nessma TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/46/Nessma_Al_Jadida_Logo.png" ,06 Nessma TV Backup 1
 http://vip.itvdom.com:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/15749.ts
 
 
 #EXTINF:5 tvg-id="Nessma TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/46/Nessma_Al_Jadida_Logo.png" ,06 Nessma TV Backup 2
-http://154.197.91.168:7001/play/a0do/index.m3u8
+http://173.212.193.243:8080/mo3adgh34S8/mo3adgh34S8/1280
 
 
 #EXTINF:6 tvg-id="Tunisna TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Logo_tunisna_rogn%C3%A9.png" ,07 Tunisna TV
@@ -144,83 +145,83 @@ https://mbc4-prod-dub-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/i
 https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8
 
 
-#EXTINF:-1 tvg-id="MBCDrama.ae" tvg-logo="https://www.dubaitv.ae/content/dam/dubaitv/icons/2023/logo.png" ,Dubai TV
+#EXTINF:-1  tvg-logo="https://www.dubaitv.ae/content/dam/dubaitv/icons/2023/logo.png" ,Dubai TV
 https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MBCDrama.ae" tvg-logo="https://play-lh.googleusercontent.com/WE5puu1Kk8-lIoPDJwRjOj_0r6nQoRQTb3h8s7vGKoYtJhG-BpIMnwJWXAJDjBVBfAM" ,Dubai Sport 1
+#EXTINF:-1  tvg-logo="https://play-lh.googleusercontent.com/WE5puu1Kk8-lIoPDJwRjOj_0r6nQoRQTb3h8s7vGKoYtJhG-BpIMnwJWXAJDjBVBfAM" ,Dubai Sport 1
 https://dmitnthfr.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="MBCDrama.ae" tvg-logo="https://play-lh.googleusercontent.com/WE5puu1Kk8-lIoPDJwRjOj_0r6nQoRQTb3h8s7vGKoYtJhG-BpIMnwJWXAJDjBVBfAM" ,Dubai Sport 2
+#EXTINF:-1  tvg-logo="https://play-lh.googleusercontent.com/WE5puu1Kk8-lIoPDJwRjOj_0r6nQoRQTb3h8s7vGKoYtJhG-BpIMnwJWXAJDjBVBfAM" ,Dubai Sport 2
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
 
-#EXTINF:-1 tvg-id="MBCDrama.ae" tvg-logo="https://play-lh.googleusercontent.com/WE5puu1Kk8-lIoPDJwRjOj_0r6nQoRQTb3h8s7vGKoYtJhG-BpIMnwJWXAJDjBVBfAM" ,Dubai Sport 3
+#EXTINF:-1  tvg-logo="https://play-lh.googleusercontent.com/WE5puu1Kk8-lIoPDJwRjOj_0r6nQoRQTb3h8s7vGKoYtJhG-BpIMnwJWXAJDjBVBfAM" ,Dubai Sport 3
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
 
-#EXTINF:-1 tvg-id="MBCDrama.ae" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d7/BBCFoodlogo.png/revision/latest?cb=20240229235713" ,BBC Food
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d7/BBCFoodlogo.png/revision/latest?cb=20240229235713" ,BBC Food
 https://i.mjh.nz/SamsungTVPlus/CABD1200010LE.m3u8
 
-#EXTINF:-1 tvg-id="MBCDrama.ae" tvg-logo="https://www.failarmy.com/cdn/shop/files/FA_RGB_STACKED-LOGO_HORIZONTAL_410x.png?v=1623863723" ,Fail Army
+#EXTINF:-1  tvg-logo="https://www.failarmy.com/cdn/shop/files/FA_RGB_STACKED-LOGO_HORIZONTAL_410x.png?v=1623863723" ,Fail Army
 https://jukin-failarmy-international-1-fr.lg.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MBCDrama.ae" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT254l8q7hqTWKvf4eNJL57TCOq89L_AufxeqJ5YMxsrImteovXXO_EpMDLaQ-UOP8MLQ&usqp=CAU" ,Rakuten Action FR
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT254l8q7hqTWKvf4eNJL57TCOq89L_AufxeqJ5YMxsrImteovXXO_EpMDLaQ-UOP8MLQ&usqp=CAU" ,Rakuten Action FR
 https://rakuten-actionmovies-7-fr.lg.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MBCDrama.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b9/TopGearLogo.jpg?20051209133540" ,BBC Top Gear
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b9/TopGearLogo.jpg?20051209133540" ,BBC Top Gear
 https://d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/playlist.m3u8?ads.xumo_channelId=99951249
 
-#EXTINF:-1 tvg-id="MBCDrama.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/09/FifthGear.jpg" ,Fifth Gear
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/09/FifthGear.jpg" ,Fifth Gear
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99951207
 
 
-#EXTINF:-1 tvg-id="MBCDrama.ae" tvg-logo="https://w7.pngwing.com/pngs/357/870/png-transparent-ufc-223-logo-ufc-218-holloway-vs-aldo-2-ufc-214-cormier-vs-jones-2-ufc-224-nunes-vs-pennington-stipe-miocic-text-rectangle-trademark-thumbnail.png" ,UFC
+#EXTINF:-1  tvg-logo="https://w7.pngwing.com/pngs/357/870/png-transparent-ufc-223-logo-ufc-218-holloway-vs-aldo-2-ufc-214-cormier-vs-jones-2-ufc-224-nunes-vs-pennington-stipe-miocic-text-rectangle-trademark-thumbnail.png" ,UFC
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99951134
 
-#EXTINF:-1 tvg-id="MBCDrama.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Al-Arabiya_new_logo.svg" ,Al Arabiya
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Al-Arabiya_new_logo.svg" ,Al Arabiya
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="MBCDrama.ae" tvg-logo="https://static.france24.com/meta_og_twcards/jsonld_publisher.png" ,France 24 AR
+#EXTINF:-1  tvg-logo="https://static.france24.com/meta_og_twcards/jsonld_publisher.png" ,France 24 AR
 https://ythls.armelin.one/channel/UCdTyuXgmJkG_O8_75eqej-w.m3u8
 
-#EXTINF:-1 tvg-id="MBCDrama.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/MBC_Masr_Logo.png/1200px-MBC_Masr_Logo.png" ,MBC Masr 1
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/MBC_Masr_Logo.png/1200px-MBC_Masr_Logo.png" ,MBC Masr 1
 https://shls-masr-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
 
-#EXTINF:-1 tvg-id="MBCDrama.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/MBC_MASR_2.jpg" ,MBC Masr 2
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/MBC_MASR_2.jpg" ,MBC Masr 2
 https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
 
-#EXTINF:-1 tvg-id="MBCDrama.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/47/Murr_TV_Logo.svg/1200px-Murr_TV_Logo.svg.png" ,MTV Lebanon
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/47/Murr_TV_Logo.svg/1200px-Murr_TV_Logo.svg.png" ,MTV Lebanon
 https://live.3cd.io/v1/broadcast/mtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MBCDrama.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" ,Spacetoon
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" ,Spacetoon
 https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
 
-#EXTINF:-1 tvg-id="MBCDrama.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Syria_tv_logo.webp/360px-Syria_tv_logo.webp.png" ,Syria TV
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Syria_tv_logo.webp/360px-Syria_tv_logo.webp.png" ,Syria TV
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist_dvr.m3u8
 
-#EXTINF:-1 tvg-id="MBCDrama.ae" tvg-logo="https://static.france24.com/meta_og_twcards/jsonld_publisher.png" ,France 24 FR
+#EXTINF:-1  tvg-logo="https://static.france24.com/meta_og_twcards/jsonld_publisher.png" ,France 24 FR
 https://ythls.armelin.one/channel/UCCCPCZNChQdGa9EkATeye4g.m3u8
 
 
-#EXTINF:-1 tvg-id="MBCDrama.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1200px-Pluto_TV_logo_2020.svg.png" ,Pluto TV Animaux
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1200px-Pluto_TV_logo_2020.svg.png" ,Pluto TV Animaux
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60925a44f0350600075a1fdc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fc78c1-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5cc06a56-861b-4448-84df-34ad224ceaa7
 
 
-#EXTINF:-1 tvg-id="MBCDrama.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1200px-Pluto_TV_logo_2020.svg.png" ,Pluto TV Cuisine
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1200px-Pluto_TV_logo_2020.svg.png" ,Pluto TV Cuisine
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed48146ba9e00078424b6/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 
-#EXTINF:-1 tvg-id="MBCDrama.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1200px-Pluto_TV_logo_2020.svg.png" ,Pluto TV Cars
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1200px-Pluto_TV_logo_2020.svg.png" ,Pluto TV Cars
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b3a4249444e05d09cc46/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5812b3a4249444e05d09cc46&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=663&terminate=false&userId=
 
-#EXTINF:-1 tvg-id="MBCDrama.ae" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6IyOYVDASPQjyvdIgzN75UFnZNlDOmsHSgHM3xMyTuQ&s" ,Abu Dhabi Sports 1 (1080p)
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6IyOYVDASPQjyvdIgzN75UFnZNlDOmsHSgHM3xMyTuQ&s" ,Abu Dhabi Sports 1 (1080p)
 https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
 
 
-#EXTINF:-1 tvg-id="MBCDrama.ae" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6IyOYVDASPQjyvdIgzN75UFnZNlDOmsHSgHM3xMyTuQ&s" ,Abu Dhabi Sports 2 (1080p)
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6IyOYVDASPQjyvdIgzN75UFnZNlDOmsHSgHM3xMyTuQ&s" ,Abu Dhabi Sports 2 (1080p)
 https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
 
 
-#EXTINF:-1 tvg-id="MBCDrama.ae" tvg-logo="https://i.imgur.com/7bRVpnu.png" ,Al Jazeera English
+#EXTINF:-1  tvg-logo="https://i.imgur.com/7bRVpnu.png" ,Al Jazeera English
 https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
 
 #EXTINF:-1 tvg-id="MBC3.ae" tvg-logo="https://i.imgur.com/PVt8OPN.png" ,MBC 3 HD
@@ -229,7 +230,7 @@ https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/in
 #EXTINF:-1 tvg-id="MBC3.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/MBC5_logo.png" ,MBC 5
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
 
-#EXTINF:-1 tvg-id="MBCDrama.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/MBC_Drama_Plus_TV_Channel_Logo.png/1200px-MBC_Drama_Plus_TV_Channel_Logo.png" ,MBC Drama plus HD
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/MBC_Drama_Plus_TV_Channel_Logo.png/1200px-MBC_Drama_Plus_TV_Channel_Logo.png" ,MBC Drama plus HD
 https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
 
 #EXTINF:-1 tvg-id="MBC3.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86_%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85.svg/640px-%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86_%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85.svg.png" ,Quran Kareem HD
