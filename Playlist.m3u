@@ -71,10 +71,6 @@ https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/in
 https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Abu_Dhabi_TV.png",Abu Dhabi TV
 https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Ad_sport_1.png",AD SPORT PREMIUM 1 HD
-http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/880
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://1.bp.blogspot.com/-DDY0t8w5lLw/Wcz258nBkrI/AAAAAAAABIo/EC2KARU2vIoHcsI_FMi9BG9nIYfOzCRBgCLcBGAs/s1600/%25D8%25A7%25D8%25A8%25D9%2588%2B%25D8%25B8%25D8%25A8%25D9%258A%2B2.png",AD SPORT PREMIUM 2 HD
-http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/881
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Al-Arabiya_new_logo.svg",Al Arabiya
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/%D8%B4%D8%A8%D9%83%D8%A9_%D8%A7%D9%84%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D9%88%D9%86_%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A.jpg",Al Araby
