@@ -7,6 +7,8 @@ https://new.cache-stream.workers.dev/stream/UCdvWVsmQBROkgcGzVep73oA/live.m3u8
 https://github.com/MassinDV/Youtube-arabic-channels/raw/main/live/ch96.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_T%C3%A9l%C3%A9vision_tunisienne_1%2C_2017.svg/739px-Logo_T%C3%A9l%C3%A9vision_tunisienne_1%2C_2017.svg.png",01 Tunisia NAT 1 Backup 3
 http://154.197.91.168:7001/play/a0b5/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_T%C3%A9l%C3%A9vision_tunisienne_1%2C_2017.svg/739px-Logo_T%C3%A9l%C3%A9vision_tunisienne_1%2C_2017.svg.png",01 Tunisia NAT 1 Backup 4
+http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/2263.ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Logo_T%C3%A9l%C3%A9vision_tunisienne_2%2C_2017.svg/739px-Logo_T%C3%A9l%C3%A9vision_tunisienne_2%2C_2017.svg.png",02 Tunisia NAT 2
 https://ythls.armelin.one/channel/UCJW9gatYczI191TunQxMGbA.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Logo_T%C3%A9l%C3%A9vision_tunisienne_2%2C_2017.svg/739px-Logo_T%C3%A9l%C3%A9vision_tunisienne_2%2C_2017.svg.png",02 Tunisia NAT 2 Backup 1
@@ -15,6 +17,8 @@ https://new.cache-stream.workers.dev/stream/UCJW9gatYczI191TunQxMGbA/live.m3u8
 https://github.com/MassinDV/Youtube-arabic-channels/raw/main/live/ch35.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Logo_T%C3%A9l%C3%A9vision_tunisienne_2%2C_2017.svg/739px-Logo_T%C3%A9l%C3%A9vision_tunisienne_2%2C_2017.svg.png",02 Tunisia NAT 2 Backup 3
 http://154.197.91.168:7001/play/a0ba/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Logo_T%C3%A9l%C3%A9vision_tunisienne_2%2C_2017.svg/739px-Logo_T%C3%A9l%C3%A9vision_tunisienne_2%2C_2017.svg.png",02 Tunisia NAT 2 Backup 4
+http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/2250.ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/fr/8/81/123.png",03 Elhiwar Ettounsi
 http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/1281
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/fr/8/81/123.png",03 Elhiwar Ettounsi Backup 1
@@ -27,6 +31,8 @@ http://154.197.91.168:7001/play/a0b6/index.m3u8
 http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/1282
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b9/Logo_Hannibal_TV.gif",04 Hannibal TV Backup 1
 http://vip.itvdom.com:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/15750.ts
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b9/Logo_Hannibal_TV.gif",04 Hannibal TV Backup 2
+http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/27689.ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://play-lh.googleusercontent.com/DoxUlfsSlT1N46-PRkyzA4r8t6td4AGp4ygrS457u3xOiTGMdKHHhasy3Kg0Qdwsso4",05 Attassia TV
 http://154.197.91.168:7001/play/a0b8/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://play-lh.googleusercontent.com/DoxUlfsSlT1N46-PRkyzA4r8t6td4AGp4ygrS457u3xOiTGMdKHHhasy3Kg0Qdwsso4",05 Attassia TV Backup
@@ -55,8 +61,10 @@ http://154.197.91.168:7001/play/a0bd/index.m3u8
 http://vip.itvdom.com:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/15743.ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://photos.live-tv-channels.org/tv-logo/tn-telvza-tv-4014.jpg",10 Telvza TV
 http://154.197.91.168:7001/play/a0bb/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://photos.live-tv-channels.org/tv-logo/tn-telvza-tv-4014.jpg",10 Telvza TV Backup
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://photos.live-tv-channels.org/tv-logo/tn-telvza-tv-4014.jpg",10 Telvza TV Backup 1
 http://vip.itvdom.com:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/40884.ts
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://photos.live-tv-channels.org/tv-logo/tn-telvza-tv-4014.jpg",10 Telvza TV Backup 2
+http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/27625.ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://zitounatv.net/wp-content/uploads/2019/08/zitounafooter-2.png",11 Zaytouna TV
 http://vip.itvdom.com:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/15747.ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Almostaqila.jpg",12 Al mustakila
@@ -303,3 +311,26 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/ushuai
 https://svs.itworkscdn.net/vdltvlive/vdltv.smil/playlist.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/fr/5/57/Yemen_tv_logo.jpg",Yemen TV
 http://154.197.91.168:7002/play/a0fr
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/6c/Echapp%C3%A9es_belles.png",Echappées Belles
+https://amg02232-botravail-amg02232c1-lg-fr-774.playouts.now.amagi.tv/playlist/amg02232-botravail-echappeesbelles-lgfr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.francetvpub.fr/wp-content/uploads/2022/01/maisontravauxtv-300x150.png",Maisons & Travaux
+https://d387lnkgycbwl.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sdi2aweg8u1y4/761cde02-1df4-4a1a-ad50-7033ede188ef/2.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/a/ac/2M_Logo.svg/1200px-2M_Logo.svg.png",Maroc 2M
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/ART_Aflam_1.png",ART Aflam 1
+http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/2172.ts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f3/ART_Aflam_2.png/revision/latest?cb=20100523131849",ART Aflam 2
+http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/2171.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/2560px-Discovery_Channel_-_Logo_2019.svg.png",Discovery Channel Arabic
+http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/2163.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/2560px-InvestigationDiscoveryLogo2020.svg.png",Discovery ID Arabic
+http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/2162.ts
+
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/717/33/png-clipart-national-geographic-abu-dhabi-television-channel-nat-geo-wild-national-geographic-logo-television-angle.png",National Geographic AD
+http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/2302.ts
+
+#EXTINF:-1 tvg-logo="https://p1.hiclipart.com/preview/852/515/623/fatafeat-tv-logo-png-clipart.jpg" group-title="Autres",Fatafeat
+http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/27495.ts
