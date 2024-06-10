@@ -16,30 +16,38 @@ https://github.com/MassinDV/Youtube-arabic-channels/raw/main/live/ch35.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="Tunisia NAT 2"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Logo_T%C3%A9l%C3%A9vision_tunisienne_2%2C_2017.svg/739px-Logo_T%C3%A9l%C3%A9vision_tunisienne_2%2C_2017.svg.png",02 Tunisia NAT 2 Backup 3
 http://154.197.91.168:7001/play/a0ba/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="Elhiwar Ettounsi"tvg-logo="https://upload.wikimedia.org/wikipedia/fr/8/81/123.png",03 Elhiwar Ettounsi
-http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/2108.ts
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/1281
 #EXTINF:-1 tvg-name=""tvg-id="Elhiwar Ettounsi"tvg-logo="https://upload.wikimedia.org/wikipedia/fr/8/81/123.png",03 Elhiwar Ettounsi Backup 1
-http://vip.itvdom.com:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/30552.ts
+http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/2108.ts
 #EXTINF:-1 tvg-name=""tvg-id="Elhiwar Ettounsi"tvg-logo="https://upload.wikimedia.org/wikipedia/fr/8/81/123.png",03 Elhiwar Ettounsi Backup 2
+http://vip.itvdom.com:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/30552.ts
+#EXTINF:-1 tvg-name=""tvg-id="Elhiwar Ettounsi"tvg-logo="https://upload.wikimedia.org/wikipedia/fr/8/81/123.png",03 Elhiwar Ettounsi Backup 3
 http://154.197.91.168:7001/play/a0b6/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="Hannibal TV"tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b9/Logo_Hannibal_TV.gif",04 Hannibal TV
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/1282
+#EXTINF:-1 tvg-name=""tvg-id="Hannibal TV"tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b9/Logo_Hannibal_TV.gif",04 Hannibal TV Backup 1
 http://vip.itvdom.com:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/15750.ts
 #EXTINF:-1 tvg-name=""tvg-id="Attassia TV"tvg-logo="https://play-lh.googleusercontent.com/DoxUlfsSlT1N46-PRkyzA4r8t6td4AGp4ygrS457u3xOiTGMdKHHhasy3Kg0Qdwsso4",05 Attassia TV
 http://154.197.91.168:7001/play/a0b8/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="Attassia TV"tvg-logo="https://play-lh.googleusercontent.com/DoxUlfsSlT1N46-PRkyzA4r8t6td4AGp4ygrS457u3xOiTGMdKHHhasy3Kg0Qdwsso4",05 Attassia TV Backup
 http://vip.itvdom.com:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/93789.ts
 #EXTINF:-1 tvg-name=""tvg-id="Nessma TV"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/46/Nessma_Al_Jadida_Logo.png",06 Nessma TV
-http://154.197.91.168:7001/play/a0do/index.m3u8
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/1280
 #EXTINF:-1 tvg-name=""tvg-id="Nessma TV"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/46/Nessma_Al_Jadida_Logo.png",06 Nessma TV Backup 1
+http://154.197.91.168:7001/play/a0do/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="Nessma TV"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/46/Nessma_Al_Jadida_Logo.png",06 Nessma TV Backup 2
 http://vip.itvdom.com:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/15749.ts
 #EXTINF:-1 tvg-name=""tvg-id="Tunisna TV"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Logo_tunisna_rogn%C3%A9.png",07 Tunisna TV
 http://154.197.91.168:7001/play/a0b7/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="Tunisna TV"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Logo_tunisna_rogn%C3%A9.png",07 Tunisna TV Backup
 http://vip.itvdom.com:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/15748.ts
 #EXTINF:-1 tvg-name=""tvg-id="Al Janoubiya"tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/62/Logo_Al_Janoubiya_TV.png",08 Al Janoubiya
-http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/2111.ts
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/1279
 #EXTINF:-1 tvg-name=""tvg-id="Al Janoubiya"tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/62/Logo_Al_Janoubiya_TV.png",08 Al Janoubiya Backup 1
-http://vip.itvdom.com:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/30550.ts
+http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/2111.ts
 #EXTINF:-1 tvg-name=""tvg-id="Al Janoubiya"tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/62/Logo_Al_Janoubiya_TV.png",08 Al Janoubiya Backup 2
+http://vip.itvdom.com:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/30550.ts
+#EXTINF:-1 tvg-name=""tvg-id="Al Janoubiya"tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/62/Logo_Al_Janoubiya_TV.png",08 Al Janoubiya Backup 3
 http://154.197.91.168:7001/play/a0bc/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="Carthage plus"tvg-logo="https://upload.wikimedia.org/wikipedia/fr/a/af/Logo-carthageplus.png",09 Carthage plus
 http://154.197.91.168:7001/play/a0bd/index.m3u8
@@ -159,6 +167,8 @@ https://i.mjh.nz/SamsungTVPlus/FRBC3300009EA.m3u8
 https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
 #EXTINF:-1 tvg-name="MBC 2"tvg-id="MBC 2"tvg-logo="https://i.imgur.com/KXuzL1u.png",MBC 2
 http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/2082.ts
+#EXTINF:-1 tvg-name="MBC 2"tvg-id="MBC 2"tvg-logo="https://i.imgur.com/KXuzL1u.png",MBC 2 HD
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/1180
 #EXTINF:-1 tvg-name=""tvg-id="MBC3.ae"tvg-logo="https://i.imgur.com/PVt8OPN.png",MBC 3 EUR
 https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="MBC3.ae"tvg-logo="https://i.imgur.com/PVt8OPN.png",MBC 3 HD
@@ -257,3 +267,43 @@ https://svs.itworkscdn.net/vdltvlive/vdltv.smil/playlist.m3u8
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/ushuaia-for-change.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/fr/5/57/Yemen_tv_logo.jpg",Yemen TV
 http://154.197.91.168:7002/play/a0fr
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Samira_TV_logo.svg/2152px-Samira_TV_logo.svg.png",Samira TV
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/1292
+
+#EXTINF:0 CUID="40" tvg-name="beIN SPORTS 1" ,beIN SPORTS 1
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/1343
+#EXTINF:0 CUID="45" tvg-name="BEIN SPORT 2" tvg-logo="https://bit.ly/3W2zIB2" ,BEIN SPORT 2
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/1348
+#EXTINF:0 CUID="46" tvg-name="BEIN SPORT 3" tvg-logo="https://bit.ly/49G8YcH" ,BEIN SPORT 3
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/1349
+#EXTINF:0 CUID="47" tvg-name="BEIN SPORT 4" tvg-logo="https://bit.ly/3xKL7em" ,BEIN SPORT 4
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/1350
+#EXTINF:0 CUID="48" tvg-name="BEIN SPORT 5" tvg-logo="https://bit.ly/49TQJkd" ,BEIN SPORT 5
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/1351
+#EXTINF:0 CUID="49" tvg-name="BEIN SPORT 6" tvg-logo="https://bit.ly/3JpLJso" ,BEIN SPORT 6
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/1352
+#EXTINF:0 CUID="50" tvg-name="BEIN SPORT 7+" tvg-logo="https://bit.ly/3JlLzCA" ,BEIN SPORT 7+
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/1353
+#EXTINF:0 CUID="51" tvg-name="BEIN SPORT 8+" tvg-logo="https://bit.ly/3xDwycC" ,BEIN SPORT 8+
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/1354
+#EXTINF:0 CUID="52" tvg-name="BEIN SPORT 9+" tvg-logo="https://bit.ly/44570kL" ,BEIN SPORT 9+
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/1355
+#EXTINF:0 CUID="53" tvg-name="BEIN SPORT 1+" tvg-logo="https://bit.ly/3Uh0jsI" ,BEIN SPORT 1+
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/1356
+#EXTINF:0 CUID="54" tvg-name="BEIN SPORT 2+" tvg-logo="https://bit.ly/3W2zIB2" ,BEIN SPORT 2+
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/1357
+#EXTINF:0 CUID="55" tvg-name="BEIN SPORT 3+" tvg-logo="https://bit.ly/49G8YcH" ,BEIN SPORT 3+
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/1358
+#EXTINF:0 CUID="56" tvg-name="BEIN SPORT 4+" tvg-logo="https://bit.ly/3xKL7em" ,BEIN SPORT 4+
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/1359
+#EXTINF:0 CUID="57" tvg-name="BEIN SPORT 5+" tvg-logo="https://bit.ly/49TQJkd" ,BEIN SPORT 5+
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/1360
+#EXTINF:0 CUID="58" tvg-name="BEIN SPORT 6+" tvg-logo="https://bit.ly/3JpLJso" ,BEIN SPORT 6+
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/1361
+#EXTINF:0 CUID="59" tvg-name="RMC 1" tvg-logo="https://od.lk/s/M18yOTc5OTA0NjBf/RMCone.jpg" ,RMC 1
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/1362
+#EXTINF:0 CUID="60" tvg-name="RMC 2" tvg-logo="https://od.lk/s/M18yOTc5OTA0Njdf/RMCtwo.png" ,RMC 2
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/1363
+#EXTINF:0 CUID="61" tvg-name="RMC 3" tvg-logo="https://od.lk/s/M18yOTc5OTA0NjZf/RMCthree.png" ,RMC 3
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/1364
+
