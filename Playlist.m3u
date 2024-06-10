@@ -270,7 +270,7 @@ http://154.197.91.168:7002/play/a0fr
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Samira_TV_logo.svg/2152px-Samira_TV_logo.svg.png",Samira TV
 http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/1292
 
-#EXTINF:0 CUID="53" tvg-name="BEIN SPORT 1+" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/72095cc224b3bf8c2b76b69f41363823.png",BEIN SPORT 1
+#EXTINF:0 CUID="53" tvg-name="BEIN SPORT 1+" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/5/51/Bein_sport_logo.svg",BEIN SPORT 1
 http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/1343
 #EXTINF:0 CUID="45" tvg-name="BEIN SPORT 2" tvg-logo="https://bit.ly/3W2zIB2" ,BEIN SPORT 2
 http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/1348
