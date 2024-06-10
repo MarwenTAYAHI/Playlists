@@ -304,21 +304,21 @@ http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/1361
 http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/1363
 #EXTINF:0 CUID="61" tvg-name="RMC 3" tvg-logo="https://od.lk/s/M18yOTc5OTA0NjZf/RMCthree.png" ,RMC 3
 http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/1364
-#EXTINF:0 CUID="5" tvg-name="SSC 1 HD" group-title="SSC قنوات اس اس سي",SSC 1 HD
+#EXTINF:0 CUID="5" tvg-name="SSC 1 HD" ,SSC 1 HD
 http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/733
-#EXTINF:0 CUID="6" tvg-name="SSC 2 HD" group-title="SSC قنوات اس اس سي",SSC 2 HD
+#EXTINF:0 CUID="6" tvg-name="SSC 2 HD" ,SSC 2 HD
 http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/734
-#EXTINF:0 CUID="7" tvg-name="SSC 3 HD" group-title="SSC قنوات اس اس سي",SSC 3 HD
+#EXTINF:0 CUID="7" tvg-name="SSC 3 HD" ,SSC 3 HD
 http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/735
-#EXTINF:0 CUID="8" tvg-name="SSC 5 HD" group-title="SSC قنوات اس اس سي",SSC 5 HD
+#EXTINF:0 CUID="8" tvg-name="SSC 5 HD" ,SSC 5 HD
 http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/737
-#EXTINF:0 CUID="10" tvg-name="SSC-EXTRA 1 HD" group-title="SSC قنوات اس اس سي",SSC-EXTRA 1 HD
+#EXTINF:0 CUID="10" tvg-name="SSC-EXTRA 1 HD" ,SSC-EXTRA 1 HD
 http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/882
-#EXTINF:0 CUID="11" tvg-name="SSC-EXTRA 2 HD" group-title="SSC قنوات اس اس سي",SSC-EXTRA 2 HD
+#EXTINF:0 CUID="11" tvg-name="SSC-EXTRA 2 HD" ,SSC-EXTRA 2 HD
 http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/883
-#EXTINF:0 CUID="12" tvg-name="AD | SPORT PREMIUM 1 HD" group-title="StarzPlay SPORTS",AD | SPORT PREMIUM 1 HD
+#EXTINF:0 CUID="12" tvg-name="AD | SPORT PREMIUM 1 HD",AD SPORT PREMIUM 1 HD
 http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/880
-#EXTINF:0 CUID="13" tvg-name="AD | SPORT PREMIUM 2 HD" group-title="StarzPlay SPORTS",AD | SPORT PREMIUM 2 HD
+#EXTINF:0 CUID="13" tvg-name="AD | SPORT PREMIUM 2 HD",AD SPORT PREMIUM 2 HD
 http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/881
 
 
