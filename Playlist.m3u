@@ -16,16 +16,12 @@ https://github.com/MassinDV/Youtube-arabic-channels/raw/main/live/ch35.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="Tunisia NAT 2"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Logo_T%C3%A9l%C3%A9vision_tunisienne_2%2C_2017.svg/739px-Logo_T%C3%A9l%C3%A9vision_tunisienne_2%2C_2017.svg.png",02 Tunisia NAT 2 Backup 3
 http://154.197.91.168:7001/play/a0ba/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="Elhiwar Ettounsi"tvg-logo="https://upload.wikimedia.org/wikipedia/fr/8/81/123.png",03 Elhiwar Ettounsi
-http://173.212.193.243:8080/mo3adgh34S8/mo3adgh34S8/1281
-#EXTINF:-1 tvg-name=""tvg-id="Elhiwar Ettounsi"tvg-logo="https://upload.wikimedia.org/wikipedia/fr/8/81/123.png",03 Elhiwar Ettounsi Backup 1
 http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/2108.ts
-#EXTINF:-1 tvg-name=""tvg-id="Elhiwar Ettounsi"tvg-logo="https://upload.wikimedia.org/wikipedia/fr/8/81/123.png",03 Elhiwar Ettounsi Backup 2
+#EXTINF:-1 tvg-name=""tvg-id="Elhiwar Ettounsi"tvg-logo="https://upload.wikimedia.org/wikipedia/fr/8/81/123.png",03 Elhiwar Ettounsi Backup 1
 http://vip.itvdom.com:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/30552.ts
-#EXTINF:-1 tvg-name=""tvg-id="Elhiwar Ettounsi"tvg-logo="https://upload.wikimedia.org/wikipedia/fr/8/81/123.png",03 Elhiwar Ettounsi Backup 3
+#EXTINF:-1 tvg-name=""tvg-id="Elhiwar Ettounsi"tvg-logo="https://upload.wikimedia.org/wikipedia/fr/8/81/123.png",03 Elhiwar Ettounsi Backup 2
 http://154.197.91.168:7001/play/a0b6/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="Hannibal TV"tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b9/Logo_Hannibal_TV.gif",04 Hannibal TV
-http://173.212.193.243:8080/mo3adgh34S8/mo3adgh34S8/1282
-#EXTINF:-1 tvg-name=""tvg-id="Hannibal TV"tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b9/Logo_Hannibal_TV.gif",04 Hannibal TV Backup
 http://vip.itvdom.com:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/15750.ts
 #EXTINF:-1 tvg-name=""tvg-id="Attassia TV"tvg-logo="https://play-lh.googleusercontent.com/DoxUlfsSlT1N46-PRkyzA4r8t6td4AGp4ygrS457u3xOiTGMdKHHhasy3Kg0Qdwsso4",05 Attassia TV
 http://154.197.91.168:7001/play/a0b8/index.m3u8
@@ -35,19 +31,15 @@ http://vip.itvdom.com:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/93789.ts
 http://154.197.91.168:7001/play/a0do/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="Nessma TV"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/46/Nessma_Al_Jadida_Logo.png",06 Nessma TV Backup 1
 http://vip.itvdom.com:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/15749.ts
-#EXTINF:-1 tvg-name=""tvg-id="Nessma TV"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/46/Nessma_Al_Jadida_Logo.png",06 Nessma TV Backup 2
-http://173.212.193.243:8080/mo3adgh34S8/mo3adgh34S8/1280
 #EXTINF:-1 tvg-name=""tvg-id="Tunisna TV"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Logo_tunisna_rogn%C3%A9.png",07 Tunisna TV
 http://154.197.91.168:7001/play/a0b7/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="Tunisna TV"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Logo_tunisna_rogn%C3%A9.png",07 Tunisna TV Backup
 http://vip.itvdom.com:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/15748.ts
 #EXTINF:-1 tvg-name=""tvg-id="Al Janoubiya"tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/62/Logo_Al_Janoubiya_TV.png",08 Al Janoubiya
-http://173.212.193.243:8080/mo3adgh34S8/mo3adgh34S8/1279
-#EXTINF:-1 tvg-name=""tvg-id="Al Janoubiya"tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/62/Logo_Al_Janoubiya_TV.png",08 Al Janoubiya Backup 1
 http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/2111.ts
-#EXTINF:-1 tvg-name=""tvg-id="Al Janoubiya"tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/62/Logo_Al_Janoubiya_TV.png",08 Al Janoubiya Backup 2
+#EXTINF:-1 tvg-name=""tvg-id="Al Janoubiya"tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/62/Logo_Al_Janoubiya_TV.png",08 Al Janoubiya Backup 1
 http://vip.itvdom.com:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/30550.ts
-#EXTINF:-1 tvg-name=""tvg-id="Al Janoubiya"tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/62/Logo_Al_Janoubiya_TV.png",08 Al Janoubiya Backup 3
+#EXTINF:-1 tvg-name=""tvg-id="Al Janoubiya"tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/62/Logo_Al_Janoubiya_TV.png",08 Al Janoubiya Backup 2
 http://154.197.91.168:7001/play/a0bc/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="Carthage plus"tvg-logo="https://upload.wikimedia.org/wikipedia/fr/a/af/Logo-carthageplus.png",09 Carthage plus
 http://154.197.91.168:7001/play/a0bd/index.m3u8
@@ -103,8 +95,6 @@ https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabi
 https://i.mjh.nz/SamsungTVPlus/CABD1200010LE.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b9/TopGearLogo.jpg?20051209133540",BBC Top Gear
 https://d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/playlist.m3u8?ads.xumo_channelId=99951249
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Cbc_sofra_logo.png/800px-Cbc_sofra_logo.png",CBC Sofra
-http://173.212.193.243:8080/mo3adgh34S8/mo3adgh34S8/1219
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/03/Ch%C3%A9rie-25-en-direct-Online.png",Chérie 25
 https://cherie25.nrjaudio.fm/hls/live/2038375/c25/master.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/CNBC_Arabia_Logo_2022.png",CNBC Arabia
@@ -147,8 +137,6 @@ https://ythls.armelin.one/channel/UCCCPCZNChQdGa9EkATeye4g.m3u8
 https://origin2-6play.live.6cloud.fr/pool_rnpls9by/gulli/sixplaysd/hls_short_q2hyb21h_gulli/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Iqraa_logo.gif",Iqraa
 https://iqraa-live.ercdn.net/iqraa/iqraa.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://e7.pngegg.com/pngimages/482/774/png-clipart-jeem-tv-satellite-television-television-channel-bein-sports-others-television-logo-thumbnail.png",Jeem Kids
-http://173.212.193.243:8080/mo3adgh34S8/mo3adgh34S8/1205
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://static.wikia.nocookie.net/international-entertainment-project/images/6/64/JRTV_logo.png/revision/latest?cb=20230423015654",Jordan TV
 https://jrtv-live.ercdn.net/jordanhd/jordanhd_1080p.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/28/Ktv_1.png",KTV 1
@@ -157,8 +145,6 @@ https://kwtktv1ta.cdn.mangomolo.com/ktv1/smil:ktv1.stream.smil/chunklist.m3u8
 https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://online-television.net/uploads/posts/2023-01/thumbs/ktv-sport.webp",KTV Sport Plus
 https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/LBC_INTERNATIONAL.png",LBC TV
-http://173.212.193.243:8080/mo3adgh34S8/mo3adgh34S8/1160
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/1/13/L%27%C3%89quipe_TV_logo_1998.svg/1200px-L%27%C3%89quipe_TV_logo_1998.svg.png",L'ÉQUIPE TV
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/eqpe/eqpetv.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Logo_M6_%282020%2C_fond_clair%29.svg/2560px-Logo_M6_%282020%2C_fond_clair%29.svg.png",M6
@@ -171,8 +157,6 @@ https://i.mjh.nz/SamsungTVPlus/FRBC3300009EA.m3u8
 https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
 #EXTINF:-1 tvg-name="MBC 2"tvg-id="MBC 2"tvg-logo="https://i.imgur.com/KXuzL1u.png",MBC 2
 http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/2082.ts
-#EXTINF:-1 tvg-name="MBC 2"tvg-id="MBC 2"tvg-logo="https://i.imgur.com/KXuzL1u.png",MBC 2 HD
-http://173.212.193.243:8080/mo3adgh34S8/mo3adgh34S8/1180
 #EXTINF:-1 tvg-name=""tvg-id="MBC3.ae"tvg-logo="https://i.imgur.com/PVt8OPN.png",MBC 3 EUR
 https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="MBC3.ae"tvg-logo="https://i.imgur.com/PVt8OPN.png",MBC 3 HD
@@ -181,8 +165,6 @@ https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/in
 https://mbc4-prod-dub-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="MBC3.ae"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/MBC5_logo.png",MBC 5
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/MBC_Action_TV_Channel_Logo.png/1200px-MBC_Action_TV_Channel_Logo.png",MBC Action
-http://173.212.193.243:8080/mo3adgh34S8/mo3adgh34S8/1170
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://w7.pngwing.com/pngs/352/866/png-transparent-mbc1-television-channel-mbc2-mbc-3-%D8%B1%D9%85%D8%B6%D8%A7%D9%86-%D9%8A%D8%AC%D9%85%D8%B9%D9%86%D8%A7-text-trademark-logo.png",MBC Aflam
 https://shls-live-ak.akamaized.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="MBCDrama.ae"tvg-logo="https://i.imgur.com/g5PWnqp.png",MBC Drama KSA
@@ -193,12 +175,8 @@ https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af
 https://shls-masr-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/MBC_MASR_2.jpg",MBC Masr 2
 https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/MBC_Max_Logo.svg",MBC Max HD
-http://173.212.193.243:8080/mo3adgh34S8/mo3adgh34S8/1177
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://w7.pngwing.com/pngs/352/866/png-transparent-mbc1-television-channel-mbc2-mbc-3-%D8%B1%D9%85%D8%B6%D8%A7%D9%86-%D9%8A%D8%AC%D9%85%D8%B9%D9%86%D8%A7-text-trademark-logo.png",MBC Movies
 https://shls-live-ak.akamaized.net/out/v1/90143f040feb40589d18c57863d9e829/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/MBC%2B_Variety.png",MBC Variety HD
-http://173.212.193.243:8080/mo3adgh34S8/mo3adgh34S8/1178
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Motorvision_TV_2016_II.png/revision/latest/scale-to-width-down/1200?cb=20230921082641",Motorvision TV
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883047
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Motorvision_TV_2016_II.png/revision/latest/scale-to-width-down/1200?cb=20230921082641",Motorvision TV 2
@@ -243,10 +221,6 @@ https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/60
 https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.nextproductions.sa/wp-content/uploads/2022/09/SamaDubaiTV-e1663184002326.png",Sama Dubai
 https://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Samira_TV_logo.svg/1076px-Samira_TV_logo.svg.png",Samira TV
-http://173.212.193.243:8080/mo3adgh34S8/mo3adgh34S8/1292
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f0/Saudi_TV1_2009.png/revision/latest?cb=20200330092830",Saudi 1
-http://173.212.193.243:8080/mo3adgh34S8/mo3adgh34S8/1240
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgOOyViammPeVgOW2yPKaN_NELBuzUTdVaQA&s",Sharjah TV
 https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="MBC3.ae"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Sky_News_Arabia_logo.png",Sky News Arabia
