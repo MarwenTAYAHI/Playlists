@@ -73,6 +73,12 @@ http://vip.itvdom.com:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/15745.ts
 http://webcam.radiotunisienne.tn:1935/radiotn/nationale_video/playlist.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/26/Mosaique_fm_logo.png",14 Mosaique FM Livecam
 https://webcam.mosaiquefm.net:1936/mosatv/studio/playlist.m3u8
+
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/69/Logo_n%C3%A9gatif_avec_contour.png/1200px-Logo_n%C3%A9gatif_avec_contour.png",15 IFM Livecam
+https://ythls.armelin.one/channel/UCvPW0VhnTcxYjWIxCvMlw2Q.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.jawharafm.net/ar/static/fr/image/png/logo-jfm-trans.png",16 Jawhara FM Livecam
+https://streaming.toutech.net/live/jfm/index.m3u8
+
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6IyOYVDASPQjyvdIgzN75UFnZNlDOmsHSgHM3xMyTuQ&s",Abu Dhabi Sports 1
 https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6IyOYVDASPQjyvdIgzN75UFnZNlDOmsHSgHM3xMyTuQ&s",Abu Dhabi Sports 2
@@ -231,6 +237,10 @@ https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/i
 http://154.197.91.168:7001/play/a0ct/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://w7.pngwing.com/pngs/352/866/png-transparent-mbc1-television-channel-mbc2-mbc-3-%D8%B1%D9%85%D8%B6%D8%A7%D9%86-%D9%8A%D8%AC%D9%85%D8%B9%D9%86%D8%A7-text-trademark-logo.png",MBC Movies
 https://shls-live-ak.akamaized.net/out/v1/90143f040feb40589d18c57863d9e829/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://w7.pngwing.com/pngs/352/866/png-transparent-mbc1-television-channel-mbc2-mbc-3-%D8%B1%D9%85%D8%B6%D8%A7%D9%86-%D9%8A%D8%AC%D9%85%D8%B9%D9%86%D8%A7-text-trademark-logo.png",MBC Movies Action
+https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://w7.pngwing.com/pngs/352/866/png-transparent-mbc1-television-channel-mbc2-mbc-3-%D8%B1%D9%85%D8%B6%D8%A7%D9%86-%D9%8A%D8%AC%D9%85%D8%B9%D9%86%D8%A7-text-trademark-logo.png",MBC Movies Thriller
+https://shls-live-ak.akamaized.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Motorvision_TV_2016_II.png/revision/latest/scale-to-width-down/1200?cb=20230921082641",Motorvision TV
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883047
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Motorvision_TV_2016_II.png/revision/latest/scale-to-width-down/1200?cb=20230921082641",Motorvision TV 2
@@ -334,3 +344,15 @@ http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/2302.ts
 
 #EXTINF:-1 tvg-logo="https://p1.hiclipart.com/preview/852/515/623/fatafeat-tv-logo-png-clipart.jpg",Fatafeat
 http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/27495.ts
+
+#EXTINF:-1 tvg-logo="https://www.thebroadcasthub.online/wp-content/uploads/2023/04/MTRSPT.png",Mtrsprt 1
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-lgfr/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.france.tv/image/logo/1000/1000/u/4/u/c372452f-php3rgu4u.png",Enquetes de choc
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01796-fastmediabackbo-enquetesdechoc-lgfr/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://arabica-tv.com/wp-content/uploads/2022/07/Arabica-Music-Logo.png",Arabica Music
+http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.docstoryfilms.com/wp-content/uploads/2015/09/docstory-logo-300.png",Doc Story
+https://i.mjh.nz/SamsungTVPlus/FR1200001N2.m3u8
