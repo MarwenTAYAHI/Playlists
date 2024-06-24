@@ -95,7 +95,8 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion
 
 
 
-
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/TRT_Arabi_logo.svg/1200px-TRT_Arabi_logo.svg.png",TRT Arabic
+https://tv-trtarabi.live.trt.com.tr/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/C8_t%C3%A9l%C3%A9.png" group-title="Autres",C8
