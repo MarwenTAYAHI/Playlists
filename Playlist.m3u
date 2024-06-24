@@ -317,8 +317,6 @@ https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae04
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/ushuaia-for-change.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.radio.fr/images/broadcasts/41/c7/37223/c300.png",Voice Of Lebanon
 https://svs.itworkscdn.net/vdltvlive/vdltv.smil/playlist.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/fr/5/57/Yemen_tv_logo.jpg",Yemen TV
-http://154.197.91.168:7002/play/a0fr
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/6c/Echapp%C3%A9es_belles.png",Echappées Belles
 https://amg02232-botravail-amg02232c1-lg-fr-774.playouts.now.amagi.tv/playlist/amg02232-botravail-echappeesbelles-lgfr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.francetvpub.fr/wp-content/uploads/2022/01/maisontravauxtv-300x150.png",Maisons & Travaux
