@@ -16,13 +16,13 @@ https://github.com/MassinDV/Youtube-arabic-channels/raw/main/live/ch35.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Logo_T%C3%A9l%C3%A9vision_tunisienne_2%2C_2017.svg/739px-Logo_T%C3%A9l%C3%A9vision_tunisienne_2%2C_2017.svg.png",02 Tunisia NAT 2 Backup 2
 http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/2250.ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/fr/8/81/123.png",03 Elhiwar Ettounsi
-http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/2108.ts
+http://154.197.91.168:7001/play/a0b6/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/fr/8/81/123.png",03 Elhiwar Ettounsi Backup 1
 http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/1281
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/fr/8/81/123.png",03 Elhiwar Ettounsi Backup 2
 http://vip.itvdom.com:25443/live/V5zmR0YpO4cr/tyLX8KDi5T/30552.ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/fr/8/81/123.png",03 Elhiwar Ettounsi Backup 3
-http://154.197.91.168:7001/play/a0b6/index.m3u8
+http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/2108.ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b9/Logo_Hannibal_TV.gif",04 Hannibal TV
 http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/27689.ts
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b9/Logo_Hannibal_TV.gif",04 Hannibal TV Backup 1
@@ -115,36 +115,7 @@ https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabi
 https://i.mjh.nz/SamsungTVPlus/CABD1200010LE.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b9/TopGearLogo.jpg?20051209133540",BBC Top Gear
 https://d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/playlist.m3u8?ads.xumo_channelId=99951249
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/fr/5/51/Bein_sport_logo.svg",BEIN SPORT 1
-http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/1343
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://bit.ly/3Uh0jsI",BEIN SPORT 1+
-http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/1356
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://bit.ly/3W2zIB2",BEIN SPORT 2
-http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/1348
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://bit.ly/3W2zIB2",BEIN SPORT 2+
-http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/1357
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://bit.ly/49G8YcH",BEIN SPORT 3
-http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/1349
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://bit.ly/49G8YcH",BEIN SPORT 3+
-http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/1358
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://bit.ly/3xKL7em",BEIN SPORT 4
-http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/1350
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://bit.ly/3xKL7em",BEIN SPORT 4+
-http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/1359
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://bit.ly/49TQJkd",BEIN SPORT 5
-http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/1351
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://bit.ly/49TQJkd",BEIN SPORT 5+
-http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/1360
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://bit.ly/3JpLJso",BEIN SPORT 6
-http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/1352
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://bit.ly/3JpLJso",BEIN SPORT 6+
-http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/1361
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://bit.ly/3JlLzCA",BEIN SPORT 7+
-http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/1353
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://bit.ly/3xDwycC",BEIN SPORT 8+
-http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/1354
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://bit.ly/44570kL",BEIN SPORT 9+
-http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/1355
+
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Cbc_sofra_logo.png/800px-Cbc_sofra_logo.png",CBC Sofra
 http://154.197.91.168:7002/play/a0f5
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/03/Ch%C3%A9rie-25-en-direct-Online.png",Chérie 25
@@ -327,8 +298,7 @@ http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/2172.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f3/ART_Aflam_2.png/revision/latest?cb=20100523131849",ART Aflam 2
 http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/2171.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/2560px-Discovery_Channel_-_Logo_2019.svg.png",Discovery Channel Arabic
-http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/2163.ts
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/2560px-InvestigationDiscoveryLogo2020.svg.png",Discovery ID Arabic
 http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/2162.ts
@@ -345,8 +315,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-lgfr/playl
 #EXTINF:-1 tvg-logo="https://www.france.tv/image/logo/1000/1000/u/4/u/c372452f-php3rgu4u.png",Enquetes de choc
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01796-fastmediabackbo-enquetesdechoc-lgfr/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://arabica-tv.com/wp-content/uploads/2022/07/Arabica-Music-Logo.png",Arabica Music
-http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.docstoryfilms.com/wp-content/uploads/2015/09/docstory-logo-300.png",Doc Story
 https://i.mjh.nz/SamsungTVPlus/FR1200001N2.m3u8
