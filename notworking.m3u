@@ -105,5 +105,45 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/W9-Logo.svg/1280px-W9-Logo.svg.png" group-title="Autres",W9
 http://gratuittv.free.fr/Files/w9/live/playlist.m3u8
 
+
+
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/fr/5/51/Bein_sport_logo.svg",BEIN SPORT 1
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/1343
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://bit.ly/3Uh0jsI",BEIN SPORT 1+
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/1356
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://bit.ly/3W2zIB2",BEIN SPORT 2
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/1348
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://bit.ly/3W2zIB2",BEIN SPORT 2+
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/1357
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://bit.ly/49G8YcH",BEIN SPORT 3
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/1349
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://bit.ly/49G8YcH",BEIN SPORT 3+
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/1358
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://bit.ly/3xKL7em",BEIN SPORT 4
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/1350
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://bit.ly/3xKL7em",BEIN SPORT 4+
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/1359
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://bit.ly/49TQJkd",BEIN SPORT 5
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/1351
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://bit.ly/49TQJkd",BEIN SPORT 5+
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/1360
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://bit.ly/3JpLJso",BEIN SPORT 6
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/1352
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://bit.ly/3JpLJso",BEIN SPORT 6+
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/1361
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://bit.ly/3JlLzCA",BEIN SPORT 7+
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/1353
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://bit.ly/3xDwycC",BEIN SPORT 8+
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/1354
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://bit.ly/44570kL",BEIN SPORT 9+
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/1355
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/a/a7/TV8_Mont-Blanc_logo_2002.png" group-title="Autres",TV8 Mont Blanc
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/8_Mont-Blanc.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/2560px-Discovery_Channel_-_Logo_2019.svg.png",Discovery Channel Arabic
+http://mohdtv.com:8880/live/ALLChannels681def0cd665/80541753/2163.ts
+
+
+#EXTINF:-1 tvg-logo="https://arabica-tv.com/wp-content/uploads/2022/07/Arabica-Music-Logo.png",Arabica Music
+http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
