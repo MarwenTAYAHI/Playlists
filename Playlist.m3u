@@ -98,13 +98,13 @@ https://vo-live.cdb.cdn.orange.com/Content/Channel/EmiratesChannel/HLS/index.m3u
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/AlHurra_logo.svg",Al Hurra
 https://mbnv-video-ingest.akamaized.net/hls/live/2038904/MBNV_ALHURRA_MAIN_HLS/master.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.imgur.com/7bRVpnu.png",Al Jazeera Arabic
-http://45.65.112.49:8000/play/a0lr
+https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.imgur.com/7bRVpnu.png",Al Jazeera Documentary
-http://154.197.91.168:7004/play/a0fi
+http://45.65.112.49:8000/play/a0lr
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.imgur.com/7bRVpnu.png",Al Jazeera Documentary Backup 1
 http://95.216.180.111:1935/live/111/chunklist_w155690980.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.imgur.com/7bRVpnu.png",Al Jazeera Documentary Backup 2
-https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
+http://154.197.91.168:7004/play/a0fi
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.imgur.com/7bRVpnu.png",Al Jazeera Documentary Backup 3
 http://154.58.202.131:8000/play/a00l
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.imgur.com/7bRVpnu.png",Al Jazeera Documentary Backup 4
