@@ -231,7 +231,7 @@ https://live.3cd.io/v1/broadcast/mtv/playlist.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/fr/4/44/NRJ12-Logo.png",NRJ 12
 https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i0.wp.com/www.middleeastmonitor.com/wp-content/uploads/2020/05/palestine-tv.png?fit=1200%2C800&ssl=1",Palestine TV
-http://154.197.91.168:7002/play/a0er
+https://pbc.furrera.ps/palestinelivehd/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1200px-Pluto_TV_logo_2020.svg.png",Pluto TV Animaux
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60925a44f0350600075a1fdc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fc78c1-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5cc06a56-861b-4448-84df-34ad224ceaa7
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pluto_TV_logo_2020.svg/1200px-Pluto_TV_logo_2020.svg.png",Pluto TV Cars
@@ -254,8 +254,6 @@ http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/1364
 https://i.mjh.nz/SamsungTVPlus/FR30000271.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b3/RMC_D%C3%A9couverte_logo_2017.svg/1024px-RMC_D%C3%A9couverte_logo_2017.svg.png",RMC Découverte
 https://d2mt8for1pddy4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6uronj7gzvy4j/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b3/RMC_D%C3%A9couverte_logo_2017.svg/1024px-RMC_D%C3%A9couverte_logo_2017.svg.png",RMC Découverte Backup
-https://i.mjh.nz/SamsungTVPlus/CH500003EH.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://amplilib.com/wp-content/uploads/2018/03/logo-RMC.jpg",RMC Mystère
 https://i.mjh.nz/SamsungTVPlus/FR300006GF.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3e/RMC_Story_logo_2018.svg/2560px-RMC_Story_logo_2018.svg.png",RMC Story
@@ -364,3 +362,9 @@ https://raw.githubusercontent.com/Angelokh22/IPTV-Playlist/main/Streams/discover
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png",Discovery Turbo English
 https://raw.githubusercontent.com/Angelokh22/IPTV-Playlist/main/Streams/discovery/discovery%20turbo/Discovery_Turbo.m3u8
+
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/TRT_Arabi_logo.svg/1200px-TRT_Arabi_logo.svg.png",TRT Arabic
+https://tv-trtarabi.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/ar/3/3a/Ajyallogo.png",Saudi Ajyal TV
+http://htvmada.mada.ps:8888/ajyal/index.m3u8
