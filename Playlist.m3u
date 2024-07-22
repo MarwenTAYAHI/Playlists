@@ -319,3 +319,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01796-fastmediabackbo-enquetesdecho
 
 #EXTINF:-1 tvg-logo="https://www.docstoryfilms.com/wp-content/uploads/2015/09/docstory-logo-300.png",Doc Story
 https://i.mjh.nz/SamsungTVPlus/FR1200001N2.m3u8
+
+#EXTINF:-1 tvg-logo="https://media0050.elcinema.com/tvguide/1298_1.png",Amman TV
+https://ammantv-live.ercdn.net/ammantvhd/ammantvhd.m3u8
