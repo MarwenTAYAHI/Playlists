@@ -224,7 +224,7 @@ https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/1/13/L%27%C3%89quipe_TV_logo_1998.svg/1200px-L%27%C3%89quipe_TV_logo_1998.svg.png",L'ÉQUIPE TV
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/eqpe/eqpetv.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Logo_M6_%282020%2C_fond_clair%29.svg/2560px-Logo_M6_%282020%2C_fond_clair%29.svg.png",M6
-https://livetvde.net/m6/tracks-v1a1/mono.m3u8
+http://mudy02.cularu.com:8880/JH12M2D152/EGYKRg8B8A/28163
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.francetvpub.fr/wp-content/uploads/2022/01/maisontravauxtv-300x150.png",Maisons & Travaux
 https://d387lnkgycbwl.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sdi2aweg8u1y4/761cde02-1df4-4a1a-ad50-7033ede188ef/2.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Majid_Logo.svg/1200px-Majid_Logo.svg.png",Majid
@@ -350,4 +350,75 @@ https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae04
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Ushuaia_tv_logo_V2-RVB.jpg/1200px-Ushuaia_tv_logo_V2-RVB.jpg",Ushuaia
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/ushuaia-for-change.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.radio.fr/images/broadcasts/41/c7/37223/c300.png",Voice Of Lebanon
+
+#EXTINF:-1 tvg-id="21.junior.al" tvg-name="BN001:BeIN Sport News" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AR/AR Bein/BN001 BeIN Sport News.png" group-title="Arab Bein",BN001:BeIN Sport News
+http://mudy02.cularu.com:8880/JH12M2D152/EGYKRg8B8A/2141
+#EXTINF:-1 tvg-id="21.junior.al" tvg-name="BN002:BeIN Sport 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AR/AR Bein/BN002 BeIN Sport 1 HD.png" group-title="Arab Bein",BN002:BeIN Sport 1 HD
+http://mudy02.cularu.com:8880/JH12M2D152/EGYKRg8B8A/2140
+#EXTINF:-1 tvg-id="21.junior.al" tvg-name="BN003:BeIN Sport 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AR/AR Bein/BN003 BeIN Sport 2 HD.png" group-title="Arab Bein",BN003:BeIN Sport 2 HD
+http://mudy02.cularu.com:8880/JH12M2D152/EGYKRg8B8A/2139
+#EXTINF:-1 tvg-id="21.junior.al" tvg-name="BN004:BeIN Sport 3 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AR/AR Bein/BN004 BeIN Sport 3 HD.png" group-title="Arab Bein",BN004:BeIN Sport 3 HD
+http://mudy02.cularu.com:8880/JH12M2D152/EGYKRg8B8A/2138
+#EXTINF:-1 tvg-id="21.junior.al" tvg-name="BN005:BeIN Sport 4 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AR/AR Bein/BN005 BeIN Sport 4 HD.png" group-title="Arab Bein",BN005:BeIN Sport 4 HD
+http://mudy02.cularu.com:8880/JH12M2D152/EGYKRg8B8A/2137
+#EXTINF:-1 tvg-id="21.junior.al" tvg-name="BN006:BeIN Sport 5 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AR/AR Bein/BN006 BeIN Sport 5 HD.png" group-title="Arab Bein",BN006:BeIN Sport 5 HD
+http://mudy02.cularu.com:8880/JH12M2D152/EGYKRg8B8A/2136
+#EXTINF:-1 tvg-id="21.junior.al" tvg-name="BN007:BeIN Sport 6 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AR/AR Bein/BN007 BeIN Sport 6 HD.png" group-title="Arab Bein",BN007:BeIN Sport 6 HD
+http://mudy02.cularu.com:8880/JH12M2D152/EGYKRg8B8A/2135
+#EXTINF:-1 tvg-id="21.junior.al" tvg-name="BN008:BeIN Sport 7 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AR/AR Bein/BN008 BeIN Sport 7 HD.png" group-title="Arab Bein",BN008:BeIN Sport 7 HD
+http://mudy02.cularu.com:8880/JH12M2D152/EGYKRg8B8A/2134
+#EXTINF:-1 tvg-id="21.junior.al" tvg-name="BN012:BeIN Sport ENG 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AR/AR Bein/BN012 BeIN Sport ENG 1.png" group-title="Arab Bein",BN012:BeIN Sport ENG 1
+http://mudy02.cularu.com:8880/JH12M2D152/EGYKRg8B8A/2130
+#EXTINF:-1 tvg-id="21.junior.al" tvg-name="BN013:BeIN Sport ENG 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AR/AR Bein/BN013 BeIN Sport ENG 2.png" group-title="Arab Bein",BN013:BeIN Sport ENG 2
+http://mudy02.cularu.com:8880/JH12M2D152/EGYKRg8B8A/2129
+#EXTINF:-1 tvg-id="21.junior.al" tvg-name="BN014:BeIN Movies 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AR/AR Bein/BN014 BeIN Movies 1.png" group-title="Arab Bein",BN014:BeIN Movies 1
+http://mudy02.cularu.com:8880/JH12M2D152/EGYKRg8B8A/2128
+#EXTINF:-1 tvg-id="21.junior.al" tvg-name="BN015:BeIN Movies 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AR/AR Bein/BN015 BeIN Movies 2.png" group-title="Arab Bein",BN015:BeIN Movies 2
+http://mudy02.cularu.com:8880/JH12M2D152/EGYKRg8B8A/2127
+#EXTINF:-1 tvg-id="21.junior.al" tvg-name="BN016:BeIN Movies 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AR/AR Bein/BN016 BeIN Movies 3.png" group-title="Arab Bein",BN016:BeIN Movies 3
+http://mudy02.cularu.com:8880/JH12M2D152/EGYKRg8B8A/2126
+#EXTINF:-1 tvg-id="21.junior.al" tvg-name="BN017:BeIN Movies 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AR/AR Bein/BN017 BeIN Movies 4.png" group-title="Arab Bein",BN017:BeIN Movies 4
+http://mudy02.cularu.com:8880/JH12M2D152/EGYKRg8B8A/2125
+#EXTINF:-1 tvg-id="21.junior.al" tvg-name="BN018:beIN GOURMET" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AR/AR Bein/BN018 beIN GOURMET.png" group-title="Arab Bein",BN018:beIN GOURMET
+http://mudy02.cularu.com:8880/JH12M2D152/EGYKRg8B8A/2124
+#EXTINF:-1 tvg-id="21.junior.al" tvg-name="BN019:BeIN Sport ENG 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AR/AR Bein/BN019 BeIN Sport ENG 3.png" group-title="Arab Bein",BN019:BeIN Sport ENG 3
+http://mudy02.cularu.com:8880/JH12M2D152/EGYKRg8B8A/2123
+#EXTINF:-1 tvg-id="21.junior.al" tvg-name="BN020:BeIN BARAEM" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AR/AR Bein/BN020 BeIN BARAEM.png" group-title="Arab Bein",BN020:BeIN BARAEM
+http://mudy02.cularu.com:8880/JH12M2D152/EGYKRg8B8A/2122
+#EXTINF:-1 tvg-id="21.junior.al" tvg-name="BN022:Bein Sports Premium 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AR/AR Bein/BN022 Bein Sports Premium 1.png" group-title="Arab Bein",BN022:Bein Sports Premium 1
+http://mudy02.cularu.com:8880/JH12M2D152/EGYKRg8B8A/2120
+#EXTINF:-1 tvg-id="21.junior.al" tvg-name="BN023:Bein Sports Premium 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AR/AR Bein/BN023 Bein Sports Premium 2.png" group-title="Arab Bein",BN023:Bein Sports Premium 2
+http://mudy02.cularu.com:8880/JH12M2D152/EGYKRg8B8A/2119
+#EXTINF:-1 tvg-id="" tvg-name="BN025:Bein Sports Premium 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AR/AR Bein/BN025 Bein Sports Premium 3.png" group-title="Arab Bein",BN025:Bein Sports Premium 3
+http://mudy02.cularu.com:8880/JH12M2D152/EGYKRg8B8A/2117
+#EXTINF:-1 tvg-id="21.junior.al" tvg-name="BN024:FOX Movie" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AR/AR Bein/BN024 FOX Movie.png" group-title="Arab Bein",BN024:FOX Movie
+http://mudy02.cularu.com:8880/JH12M2D152/EGYKRg8B8A/2118
+#EXTINF:-1 tvg-id="21.junior.al" tvg-name="BN026:FOX Action Movie" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AR/AR Bein/BN026 FOX Action Movie.png" group-title="Arab Bein",BN026:FOX Action Movie
+http://mudy02.cularu.com:8880/JH12M2D152/EGYKRg8B8A/2116
+#EXTINF:-1 tvg-id="21.junior.al" tvg-name="BN027:BEIN travel" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AR/AR Bein/BN027 BEIN travel.png" group-title="Arab Bein",BN027:BEIN travel
+http://mudy02.cularu.com:8880/JH12M2D152/EGYKRg8B8A/2115
+#EXTINF:-1 tvg-id="bein.sports.1.ae" tvg-name="BN028:Bein Sport 1 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BN/BN028BeinSport1FHD.png" group-title="Arab Bein",BN028:Bein Sport 1 FHD
+http://mudy02.cularu.com:8880/JH12M2D152/EGYKRg8B8A/59271
+#EXTINF:-1 tvg-id="bein.sports.2.ae" tvg-name="BN029:Bein Sport 2 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BN/BN029BeinSport2FHD.png" group-title="Arab Bein",BN029:Bein Sport 2 FHD
+http://mudy02.cularu.com:8880/JH12M2D152/EGYKRg8B8A/59270
+#EXTINF:-1 tvg-id="bein.sports.3.ae" tvg-name="BN030:Bein Sport 3 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BN/BN030BeinSport3FHD.png" group-title="Arab Bein",BN030:Bein Sport 3 FHD
+http://mudy02.cularu.com:8880/JH12M2D152/EGYKRg8B8A/59269
+#EXTINF:-1 tvg-id="bein.sports.4.ae" tvg-name="BN031:Bein Sport 4 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BN/BN031BeinSport4FHD.png" group-title="Arab Bein",BN031:Bein Sport 4 FHD
+http://mudy02.cularu.com:8880/JH12M2D152/EGYKRg8B8A/59268
+#EXTINF:-1 tvg-id="bein.sports.5.ae" tvg-name="BN032:Bein Sport 5 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BN/BN032BeinSport5FHD.png" group-title="Arab Bein",BN032:Bein Sport 5 FHD
+http://mudy02.cularu.com:8880/JH12M2D152/EGYKRg8B8A/59267
+#EXTINF:-1 tvg-id="bein.sports.6.ae" tvg-name="BN033:Bein Sport 6 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BN/BN033BeinSport6FHD.png" group-title="Arab Bein",BN033:Bein Sport 6 FHD
+http://mudy02.cularu.com:8880/JH12M2D152/EGYKRg8B8A/59266
+#EXTINF:-1 tvg-id="bein.sports.7.ae" tvg-name="BN034:Bein Sport 7 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BN/BN034BeinSport7FHD.png" group-title="Arab Bein",BN034:Bein Sport 7 FHD
+http://mudy02.cularu.com:8880/JH12M2D152/EGYKRg8B8A/59265
+#EXTINF:-1 tvg-id="21.junior.al" tvg-name="BN035:Bein Sports Max 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AR/AR Bein/BN035 Bein Sports Max 1.png" group-title="Arab Bein",BN035:Bein Sports Max 1
+http://mudy02.cularu.com:8880/JH12M2D152/EGYKRg8B8A/59264
+#EXTINF:-1 tvg-id="21.junior.al" tvg-name="BN036:Bein Sports Max 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AR/AR Bein/BN036 Bein Sports Max 2.png" group-title="Arab Bein",BN036:Bein Sports Max 2
+http://mudy02.cularu.com:8880/JH12M2D152/EGYKRg8B8A/59263
+#EXTINF:-1 tvg-id="21.junior.al" tvg-name="BN037:Bein Sports Max 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AR/AR Bein/BN037 Bein Sports Max 3.png" group-title="Arab Bein",BN037:Bein Sports Max 3
+http://mudy02.cularu.com:8880/JH12M2D152/EGYKRg8B8A/59262
+#EXTINF:-1 tvg-id="21.junior.al" tvg-name="BN038:Bein Sports Max 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AR/AR Bein/BN038 Bein Sports Max 4.png" group-title="Arab Bein",BN038:Bein Sports Max 4
+http://mudy02.cularu.com:8880/JH12M2D152/EGYKRg8B8A/59261
+#EXTINF:-1 tvg-id="21.junior.al" tvg-name="BN039:Bein Sports Max 5" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AR/AR Bein/BN039 Bein Sports Max 5.png" group-title="Arab Bein",BN039:Bein Sports Max 5
+http://mudy02.cularu.com:8880/JH12M2D152/EGYKRg8B8A/59260
 https://svs.itworkscdn.net/vdltvlive/vdltv.smil/playlist.m3u8
