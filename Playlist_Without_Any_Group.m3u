@@ -16,6 +16,7 @@ http://154.197.91.168:7001/play/a0b5/index.m3u8
 #EXTINF: 1 tvg-id="Tunisia NAT 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Logo_T%C3%A9l%C3%A9vision_tunisienne_2%2C_2017.svg/739px-Logo_T%C3%A9l%C3%A9vision_tunisienne_2%2C_2017.svg.png" , 02 Tunisia NAT 2
 https://ythls.armelin.one/channel/UCJW9gatYczI191TunQxMGbA.m3u8
 
+
 #EXTINF: 1 tvg-id="Tunisia NAT 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Logo_T%C3%A9l%C3%A9vision_tunisienne_2%2C_2017.svg/739px-Logo_T%C3%A9l%C3%A9vision_tunisienne_2%2C_2017.svg.png" , 02 Tunisia NAT 2 Backup 1
 https://new.cache-stream.workers.dev/stream/UCJW9gatYczI191TunQxMGbA/live.m3u8
 
@@ -453,11 +454,14 @@ http://173.212.193.243:8080/mo3adgh34S8/mo3adgh34S8/1205
 http://154.197.91.168:7002/play/a0fr
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/www.middleeastmonitor.com/wp-content/uploads/2020/05/palestine-tv.png?fit=1200%2C800&ssl=1" ,Palestine TV
-http://154.197.91.168:7002/play/a0er
+https://pbc.furrera.ps/palestinehd/index.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Logo_TV5_Monde_-_2021.svg/1200px-Logo_TV5_Monde_-_2021.svg.png" ,TV5 Maghreb Orient
 http://154.197.91.168:7004/play/a0e0
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/Al_Mayadeen_logo.svg/1200px-Al_Mayadeen_logo.svg.png" ,Al Mayadeen
+https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
 
 
