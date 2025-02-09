@@ -195,6 +195,10 @@ https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/in
 http://154.197.91.168:7001/play/a0cr/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://w7.pngwing.com/pngs/352/866/png-transparent-mbc1-television-channel-mbc2-mbc-3-%D8%B1%D9%85%D8%B6%D8%A7%D9%86-%D9%8A%D8%AC%D9%85%D8%B9%D9%86%D8%A7-text-trademark-logo.png",MBC Aflam
 https://shls-live-ak.akamaized.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/Al-Saudia_TV_Logo_2018.png",KSA Saudi 1
+http://154.58.202.185:8000/play/a080
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/13/Saudi_2_TV_Logo_2014.png",KSA Saudi 2
+http://154.54.220.67:34780/play/a02x
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.imgur.com/g5PWnqp.png",MBC Drama KSA
 https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/MBC_Drama_Plus_TV_Channel_Logo.png/1200px-MBC_Drama_Plus_TV_Channel_Logo.png",MBC Drama plus HD
