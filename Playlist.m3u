@@ -166,7 +166,7 @@ https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/1/13/L%27%C3%89quipe_TV_logo_1998.svg/1200px-L%27%C3%89quipe_TV_logo_1998.svg.png",L'ÉQUIPE TV
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/eqpe/eqpetv.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Logo_M6_%282020%2C_fond_clair%29.svg/2560px-Logo_M6_%282020%2C_fond_clair%29.svg.png",M6
-http://mudy02.cularu.com:8880/JH12M2D152/EGYKRg8B8A/28163
+http://localhd.tv:8080/mhbaleste1/DIWH5OVCBj/124
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.francetvpub.fr/wp-content/uploads/2022/01/maisontravauxtv-300x150.png",Maisons & Travaux
 https://d387lnkgycbwl.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sdi2aweg8u1y4/761cde02-1df4-4a1a-ad50-7033ede188ef/2.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Majid_Logo.svg/1200px-Majid_Logo.svg.png",Majid
@@ -252,11 +252,11 @@ http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/1364
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://amplilib.com/wp-content/uploads/2018/03/logo-RMC.jpg",RMC Alerte secours
 https://i.mjh.nz/SamsungTVPlus/FR30000271.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b3/RMC_D%C3%A9couverte_logo_2017.svg/1024px-RMC_D%C3%A9couverte_logo_2017.svg.png",RMC Découverte
-https://d2mt8for1pddy4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6uronj7gzvy4j/index.m3u8
+http://localhd.tv:8080/mhbaleste1/DIWH5OVCBj/815
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://amplilib.com/wp-content/uploads/2018/03/logo-RMC.jpg",RMC Mystère
 https://i.mjh.nz/SamsungTVPlus/FR300006GF.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3e/RMC_Story_logo_2018.svg/2560px-RMC_Story_logo_2018.svg.png",RMC Story
-https://d36bxc1bknkxrk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ewcp19zjaxpt/index.m3u8
+http://localhd.tv:8080/mhbaleste1/DIWH5OVCBj/2172
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3e/RMC_Story_logo_2018.svg/2560px-RMC_Story_logo_2018.svg.png",RMC Story Backup
 https://i.mjh.nz/SamsungTVPlus/CH500002H2.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://yt3.googleusercontent.com/kzUQEB8wnloismj-Fe4M2rd6vwSRuRNTKRg5ccUmm2Nq69XFMwGC78pQlaaTtRjmJTw9kcpC=s900-c-k-c0x00ffffff-no-rj",RMC WOW
@@ -297,3 +297,11 @@ https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae04
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/ushuaia-for-change.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://www.radio.fr/images/broadcasts/41/c7/37223/c300.png",Voice Of Lebanon
 https://svs.itworkscdn.net/vdltvlive/vdltv.smil/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/6ter.png",6ter
+http://localhd.tv:8080/mhbaleste1/DIWH5OVCBj/3292
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/5f/TF1_S%C3%A9ries_Films_logo_2018.svg/720px-TF1_S%C3%A9ries_Films_logo_2018.svg.png",TF1 Séries Films
+http://localhd.tv:8080/mhbaleste1/DIWH5OVCBj/4003
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/8/83/TFX_logo_2018.svg/1200px-TFX_logo_2018.svg.png",TFX
+http://localhd.tv:8080/mhbaleste1/DIWH5OVCBj/669
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/c0/Logo_RTL9_%282023%29.svg",RTL 9
+http://localhd.tv:8080/mhbaleste1/DIWH5OVCBj/671
