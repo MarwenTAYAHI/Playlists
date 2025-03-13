@@ -29,3 +29,9 @@ http://localhd.tv:8080/mhbaleste1/DIWH5OVCBj/671
 http://localhd.tv:8080/mhbaleste1/DIWH5OVCBj/4263
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Arte-Logo.svg/1280px-Arte-Logo.svg.png",Arte
 http://localhd.tv:8080/mhbaleste1/DIWH5OVCBj/3274
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/2b/W9_2012.png",W9
+http://localhd.tv:8080/mhbaleste1/DIWH5OVCBj/32
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/9a/Logo_AB1_2021.png",AB 1
+http://localhd.tv:8080/mhbaleste1/DIWH5OVCBj/1160
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/0/0e/Logo_AB3.svg/1024px-Logo_AB3.svg.png",AB 3
+http://localhd.tv:8080/mhbaleste1/DIWH5OVCBj/7827
