@@ -1,1 +1,29 @@
-
+#EXTM3U
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Logo_TF1_2013.svg/1200px-Logo_TF1_2013.svg.png",TF1
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/5f/TF1_S%C3%A9ries_Films_logo_2018.svg/720px-TF1_S%C3%A9ries_Films_logo_2018.svg.png",TF1 Séries Films
+http://localhd.tv:8080/mhbaleste1/DIWH5OVCBj/4003
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/8/83/TFX_logo_2018.svg/1200px-TFX_logo_2018.svg.png",TFX
+http://localhd.tv:8080/mhbaleste1/DIWH5OVCBj/669
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France_2_color.png?h=100",France 2
+http://fortv.cc:8080/gscQ3v/779460/160297
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France_3_color.png?h=100",France 3
+http://fortv.cc:8080/gscQ3v/779460/160298
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France_4_color.png?h=100",France 4
+http://fortv.cc:8080/gscQ3v/779460/160299
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France_5_color.png?h=100",France 5
+http://fortv.cc:8080/gscQ3v/779460/160300
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Logo_M6_%282020%2C_fond_clair%29.svg/2560px-Logo_M6_%282020%2C_fond_clair%29.svg.png",M6
+http://localhd.tv:8080/mhbaleste1/DIWH5OVCBj/124
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/6ter.png",6ter
+http://localhd.tv:8080/mhbaleste1/DIWH5OVCBj/3292
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b3/RMC_D%C3%A9couverte_logo_2017.svg/1024px-RMC_D%C3%A9couverte_logo_2017.svg.png",RMC Découverte
+http://localhd.tv:8080/mhbaleste1/DIWH5OVCBj/815
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3e/RMC_Story_logo_2018.svg/2560px-RMC_Story_logo_2018.svg.png",RMC Story
+http://localhd.tv:8080/mhbaleste1/DIWH5OVCBj/2172
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/a/a8/TMC_logo_2016.svg/1280px-TMC_logo_2016.svg.png",TMC
+http%3a//localhd.tv%3a8080/mhbaleste1/DIWH5OVCBj/3096
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/c0/Logo_RTL9_%282023%29.svg",RTL 9
+http://localhd.tv:8080/mhbaleste1/DIWH5OVCBj/671
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/8/88/Logo-Gulli.svg/1200px-Logo-Gulli.svg.png",Gulli
+http://localhd.tv:8080/mhbaleste1/DIWH5OVCBj/4263
